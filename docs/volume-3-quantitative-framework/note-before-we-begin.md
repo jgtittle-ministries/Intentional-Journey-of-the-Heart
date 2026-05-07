@@ -1,0 +1,29 @@
+---
+title: "A Note Before We Begin: What This Volume Is and Is Not"
+volume: 3
+source: "IJH_Vol3_v5_5_7.docx"
+---
+
+# A Note Before We Begin: What This Volume Is and Is Not
+
+Volume 1 described the laws. Volume 2 described the conditions under which a person can actually operate in those laws. Volume 3 does something different from both, and I want to be clear about what that different thing is before you read a word of the explorations.
+
+This volume is a sustained attempt to think precisely about something that most people do not try to think about precisely at all. The question: if the spiritual world operates according to knowable, regular, orderly laws — the foundational claim that Jesus’ rebuke of Nicodemus implies — then can those laws be stated not just qualitatively but quantitatively? Can we identify elemental quantities, describe their relationships as equations, identify conservation laws, and model the feedback dynamics of spiritual force the way a systems engineer models the dynamics of a complex physical system?
+
+My answer is: probably yes, partially, and not yet. Probably yes, because the God who created a universe precise enough to be described by Maxwell’s equations does not seem like the kind of God who would create a spiritual world governed by vague, unstructured forces. Partially, because this volume is genuinely preliminary — I am identifying the shape of the problem and proposing candidate frameworks, not delivering a finished theory. Not yet, because the measurement problem is real and hard, and I do not yet have a solution I am satisfied with.
+
+A significant contribution has been added to this volume from a framework called Transcendental Field Theory, or TFT, a systematic investigation of how the classical philosophical transcendentals (Truth, Goodness, Beauty) and additional scriptural transcendentals (Life, Light, Love, Glory, Holiness, Wisdom, Power, Peace, Justice, Unity, Freedom) relate to each other in field-theoretic terms. TFT was developed within a Reformed, Evangelical, Charismatic, and Mystical Christian worldview, using the mathematical language of quantum field theory (QFT) as a structural analogy rather than a literal claim. I will flag throughout where TFT is illuminating the IJH project in important ways.
+
+One critical distinction must govern everything in this volume: the difference between illustrative analogies and load-bearing analogies. An analogy is illustrative when it helps me see the shape of a spiritual relationship by pointing to a physical one with a similar structure. It is load-bearing when I am claiming the spiritual law has the same mathematical form as the physical law, precise enough to derive specific predictions. Most of the analogy work here is illustrative. I will flag the handful of cases where I am proposing something stronger.
+
+If you are up for it, the appendices include the equations, explanations, and challenges for TFT, and they also show my back-and-forth dialogue with Claude as the AI agent. I make no claim to understand QFT or its extensions, but I think there may be some gold here for someone with a background in scripture and who also understands QFT.
+
+The certainty ratings in this volume will be lower than in Vols 1 and 2. That is not a failure; it is an accurate representation of where my frontier is. The Saturday morning workshop was always more interested in honest exploration than in the appearance of having arrived.
+
+Because this is exploratory, I don’t think the work in Vols 1 and 2 depends on what is in this document. They can stand alone based on the discussion and the level of certainty presented. Even when I draw connections to Vols 1 and 2, these are interesting possibilities and supporting material, not evidence. Given all that, I think some very interesting analogies are proposed, and if even a few are tested and found reliable, that would be wonderful to me.
+
+Also, most of this volume has been organized and tested using AI tools. My notes on this subject were so scattered and almost random that no one could have made heads of tails out of them. The tools found a structure and extensions that were wandering around inside my notes. As I mentioned in the Introduction, with all the help and research, not just AI type, but all the other resources I quote, I am the one responsible for the results I am presenting.
+
+**A Note on the Registry, the Governance, and the Analogy-Class Discipline.** This volume contains the most speculative material in the work, and the governance in Volume 6 treats it accordingly. The explorations here are encoded in vol3-claims.yml, with the central equation (V3.Exp3, the Spiritual Force equation) at 40% confidence, the Conservation Laws (V3.Exp6) at 35%, and V3.Exp8 (Miracles as threshold events) at 55%. These are Tier 3 frontier claims. They do not move by routine refinement — they move only when new evidence accumulates, through the research-program track described in the governance. A well-argued proposal is not sufficient to adjust them.
+
+This volume also originated the analogy-class discipline that Volume 6 extends backward across Volumes 1 and 2. Every claim that uses a physical analogy — prayer as resonance, emotional knots as local minima, spiritual force as multiplicative — is tagged in the registry as either illustrative (the analogy helps the reader see the shape of a spiritual relationship) or load-bearing proposed (the analogy claims the spiritual law shares the mathematical form of the physical one). Most of the analogies in this volume are illustrative. A handful are proposed as load-bearing, and those require a Council supermajority to ratify as such. The tag exists because analogies drift upward silently over time — not through any single decision, but through accumulated usage. The governance makes that drift visible and requires a deliberate act to convert an analogy’s class upward.

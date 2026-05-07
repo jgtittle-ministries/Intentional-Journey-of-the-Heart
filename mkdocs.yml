@@ -1,6 +1,7 @@
 site_name: Intentional Journey of the Heart
 site_description: Notes to My Kids (and Grandkids) — On My Personal Exploration of the Laws of God's Love
 site_author: John G. Tittle
+site_url: https://jgtittle.github.io/Intentional-Journey-of-the-Heart/
 repo_url: https://github.com/jgtittle/Intentional-Journey-of-the-Heart
 repo_name: jgtittle/Intentional-Journey-of-the-Heart
 edit_uri: edit/main/docs/
@@ -11,39 +12,170 @@ theme:
     - navigation.instant
     - navigation.tracking
     - navigation.tabs
+    - navigation.tabs.sticky
     - navigation.sections
+    - navigation.expand
     - navigation.top
+    - navigation.indexes
     - search.suggest
     - search.highlight
     - content.code.copy
+    - toc.follow
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
       primary: indigo
-      accent: indigo
+      accent: deep purple
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       primary: indigo
-      accent: indigo
+      accent: deep purple
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
+  font:
+    text: Source Serif Pro
+    code: Roboto Mono
 
 markdown_extensions:
   - admonition
   - footnotes
   - tables
+  - attr_list
+  - md_in_html
   - toc:
       permalink: true
+      toc_depth: 3
   - pymdownx.details
   - pymdownx.superfences
   - pymdownx.tabbed:
       alternate_style: true
+  - pymdownx.mark
+  - pymdownx.critic
+  - pymdownx.keys
 
+plugins:
+  - search
+  - minify:
+      minify_html: true
+  - git-revision-date-localized:
+      enable_creation_date: true
+      type: date
+
+# ---------------------------------------------------------------
+# NAV — generated from extract_volumes.py (v5_5_7 source)
+# Reading site: Read Me First, Introduction, Volumes 1-5.
+# Volume 6 (governance) is intentionally NOT in the reading site —
+# it lives at the repository root as a directive, not Pages content.
+# ---------------------------------------------------------------
 nav:
   - Home: index.md
+  - "Read Me First": read-me-first.md
+  - "Introduction":
+    - introduction/index.md
+    - "Introduction: What I Am Trying to Do Here": introduction/introduction-what-i-am-trying-to-do.md
+    - "Overview of the Work": introduction/overview-of-the-work.md
+    - "The Four Foundational Principles": introduction/four-foundational-principles.md
+    - "A Note on Two Kinds of Laws": introduction/note-on-two-kinds-of-laws.md
+    - "A Note on Proof and Certainty": introduction/note-on-proof-and-certainty.md
+    - "A Note on the use of Claude as an AI research assistant": introduction/note-on-use-of-claude-as-ai-research.md
+    - "Future Development": introduction/future-development.md
+  - "Volume 1: Laws of the Spirit":
+    - volume-1-laws-of-the-spirit/index.md
+    - "Taxonomy Key": volume-1-laws-of-the-spirit/taxonomy-key-how-this-volume-classifies-its.md
+    - "Opening: The Miracle Frame": volume-1-laws-of-the-spirit/opening-miracle-frame.md
+    - "1. How to Get Faith": volume-1-laws-of-the-spirit/exploration-01-how-to-get-faith.md
+    - "2. My Spirit, Heart, Soul, and Body": volume-1-laws-of-the-spirit/exploration-02-my-spirit-heart-soul-and.md
+    - "3. The Relationship of Faith, Hope, and Love": volume-1-laws-of-the-spirit/exploration-03-relationship-of-faith-hope-and.md
+    - "4. Wisdom, Knowledge, Understanding, and Discernment": volume-1-laws-of-the-spirit/exploration-04-wisdom-knowledge-understanding-and-discernment.md
+    - "5. The Gateway Condition": volume-1-laws-of-the-spirit/exploration-05-gateway-condition.md
+    - "6. The Obedience Channel": volume-1-laws-of-the-spirit/exploration-06-obedience-channel.md
+    - "7. Spiritual Authority": volume-1-laws-of-the-spirit/exploration-07-spiritual-authority.md
+    - "8. Prayer as a Resonance Phenomenon": volume-1-laws-of-the-spirit/exploration-08-prayer-as-resonance-phenomenon.md
+    - "Connecting the Dots": volume-1-laws-of-the-spirit/connecting-the-dots-how-the-eight-explorations.md
+    - "A Note on the Framework: The AQAL Question": volume-1-laws-of-the-spirit/note-on-framework.md
+    - "Spiritual Force, Energy, and Power": volume-1-laws-of-the-spirit/spiritual-force-energy-and-power.md
+    - "Why a Periodic Table": volume-1-laws-of-the-spirit/why-a-periodic-table-and-which-axes.md
+    - "A Word to My Kids": volume-1-laws-of-the-spirit/word-to-my-kids-at-the-end.md
+    - "Supplemental: The Three Desires": volume-1-laws-of-the-spirit/supplemental-three-desires.md
+    - "Claim Index": volume-1-laws-of-the-spirit/claim-index.md
+  - "Volume 2: Knowing to Doing":
+    - volume-2-knowing-to-doing/index.md
+    - "Introduction: The Bridge from Knowing to Doing": volume-2-knowing-to-doing/introduction-the-bridge-from-knowing-to-doing.md
+    - "Taxonomy Key": volume-2-knowing-to-doing/taxonomy-key-how-this-volume-classifies-its.md
+    - "1. The Heart Soil": volume-2-knowing-to-doing/exploration-01-heart-soil.md
+    - "2. Emotional Knots": volume-2-knowing-to-doing/exploration-02-emotional-knots.md
+    - "2A. The Wound and the False Self": volume-2-knowing-to-doing/exploration-02a-wound-and-false-self.md
+    - "2B. The Adversary's Role": volume-2-knowing-to-doing/exploration-02b-adversarys-role.md
+    - "3. Believing a Lie": volume-2-knowing-to-doing/exploration-03-believing-lie.md
+    - "4. Confession and Restoration": volume-2-knowing-to-doing/exploration-04-confession-and-restoration.md
+    - "5. The Four Connects": volume-2-knowing-to-doing/exploration-05-four-connects.md
+    - "6. The Tool Map": volume-2-knowing-to-doing/exploration-06-tool-map.md
+    - "7. Hearing with Understanding": volume-2-knowing-to-doing/exploration-07-hearing-with-understanding.md
+    - "8. The Container": volume-2-knowing-to-doing/exploration-08-container.md
+    - "9. Community as Amplifier": volume-2-knowing-to-doing/exploration-09-community-as-amplifier.md
+    - "10. The Training Plan": volume-2-knowing-to-doing/exploration-10-training-plan.md
+    - "Epilogue: The Invitation to Volume 3": volume-2-knowing-to-doing/epilogue-the-invitation-to-volume-3.md
+    - "Claim Index": volume-2-knowing-to-doing/claim-index.md
+  - "Volume 3: Quantitative Framework":
+    - volume-3-quantitative-framework/index.md
+    - "A Note Before We Begin": volume-3-quantitative-framework/note-before-we-begin.md
+    - "Taxonomy Key": volume-3-quantitative-framework/taxonomy-key-how-this-volume-classifies-its.md
+    - "1. The Case for Quantification": volume-3-quantitative-framework/exploration-01-case-for-quantification.md
+    - "2. Transcendental Field Theory": volume-3-quantitative-framework/exploration-02-transcendental-field-theory-as-vol.md
+    - "3. Spiritual Force": volume-3-quantitative-framework/exploration-03-spiritual-force.md
+    - "4. Spiritual Distance": volume-3-quantitative-framework/exploration-04-spiritual-distance.md
+    - "5. Spiritual Energy and Power": volume-3-quantitative-framework/exploration-05-spiritual-energy-and-power.md
+    - "6. Conservation Laws": volume-3-quantitative-framework/exploration-06-conservation-laws.md
+    - "7. Systems Dynamics": volume-3-quantitative-framework/exploration-07-systems-dynamics-as-modeling-language.md
+    - "8. Miracles": volume-3-quantitative-framework/exploration-08-miracles.md
+    - "9. The Glory Attractor": volume-3-quantitative-framework/exploration-09-glory-attractor-and-sanctification-trajectory.md
+    - "Open Trails": volume-3-quantitative-framework/open-trails-what-vol-3-cannot-yet.md
+    - "Epilogue: The Invitation Forward": volume-3-quantitative-framework/epilogue-the-invitation-forward.md
+    - "Appendix: TFT Equations": volume-3-quantitative-framework/appendix-transcendental-field-theory-equations.md
+    - "Appendix: TFT Interpreted Analogies": volume-3-quantitative-framework/appendix-tft-interpreted-analogies.md
+    - "Appendix: TFT Explained": volume-3-quantitative-framework/appendix-tft-explained.md
+    - "Appendix: TFT Challenged": volume-3-quantitative-framework/appendix-tft-challenged.md
+    - "Appendix: Master Law Index": volume-3-quantitative-framework/appendix-master-law-index.md
+    - "Claim Index": volume-3-quantitative-framework/claim-index.md
+  - "Volume 4: Testing Framework":
+    - volume-4-testing-framework/index.md
+    - "1. Why Testing Matters": volume-4-testing-framework/section-1-why-testing-matters-for-laws.md
+    - "2. Testing Framework": volume-4-testing-framework/section-2-testing-framework.md
+    - "3. Individual Testing Protocol": volume-4-testing-framework/section-3-individual-spiritual-formation-testing-protocol.md
+    - "4. Small Group Testing Protocol": volume-4-testing-framework/section-4-small-group-spiritual-formation-testing.md
+    - "5. Research Program Design": volume-4-testing-framework/section-5-research-program-design-for-spiritual.md
+  - "Volume 5: References":
+    - volume-5-references/index.md
+    - "Introduction": volume-5-references/introduction.md
+    - "Part I: Scholarly and Academic Sources": volume-5-references/part-i-scholarly-and-academic-sources.md
+    - "Part II: Spiritual Formation and Theological Authors": volume-5-references/part-ii-spiritual-formation-and-theological-authors.md
+    - "Part III: Processes and Ministry Tools": volume-5-references/part-iii-processes-and-ministry-tools.md
+    - "Part IV: Scripture Figures as Case Studies": volume-5-references/part-iv-scripture-figures-as-case-studies.md
+    - "Part V: LotS Project Participants": volume-5-references/part-v-lots-project-participants.md
+    - "Reference Material Used in LotS": volume-5-references/reference-material-used-in-lots.md
+    - "Theological Anthropology of the Heart, Spirit, Soul, and Mind": volume-5-references/theological-anthropology-of-the-heart-spirit-soul.md
+    - "The Heart in Formation": volume-5-references/heart-in-formation-affective-taxonomy-as-a.md
+    - "Soul and Spirit Taxonomies": volume-5-references/soul-and-spirit-taxonomies-for-spiritual-formation.md
+    - "A Model of Spiritual Formation": volume-5-references/model-of-spiritual-formation-for-individuals-and.md
+    - "Abstract": volume-5-references/abstract.md
+    - "What a Formation Companion Is": volume-5-references/what-a-formation-companion-is-and-is.md
+    - "The Four Contributing Traditions": volume-5-references/four-contributing-traditions.md
+    - "The Core Competencies": volume-5-references/core-competencies-what-the-four-traditions-share.md
+    - "The Three Levels of Companion Development": volume-5-references/three-levels-of-companion-development.md
+    - "Mode Specializations": volume-5-references/mode-specializations.md
+    - "The Level III Mode-Switching Capstone": volume-5-references/level-iii-mode-switching-capstone.md
+    - "On Non-Christian-Grounded Methodologies": volume-5-references/on-the-discerning-use-of-non-christian.md
+    - "Character Prerequisites": volume-5-references/character-prerequisites-for-the-formation-companion-role.md
+    - "Tool Inventory": volume-5-references/tool-inventory-first-pass.md
+    - "Hearing and Obeying": volume-5-references/hearing-and-obeying-the-developmental-spine.md
+    - "Recognized Credentialing Pathways": volume-5-references/recognized-credentialing-pathways.md
+    - "The Four Connects as the Companion's Own Formation": volume-5-references/four-connects-as-the-companions-own-formation.md
+    - "Conclusion": volume-5-references/conclusion.md
+    - "References": volume-5-references/references.md
+    - "Measuring Spiritual Formation at Scale": volume-5-references/measuring-spiritual-formation-at-scale.md
 
 copyright: Copyright &copy; John G. Tittle — Licensed under CC BY 4.0
