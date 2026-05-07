@@ -1,0 +1,49 @@
+site_name: Intentional Journey of the Heart
+site_description: Notes to My Kids (and Grandkids) — On My Personal Exploration of the Laws of God's Love
+site_author: John G. Tittle
+repo_url: https://github.com/jgtittle/Intentional-Journey-of-the-Heart
+repo_name: jgtittle/Intentional-Journey-of-the-Heart
+edit_uri: edit/main/docs/
+
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+markdown_extensions:
+  - admonition
+  - footnotes
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+
+nav:
+  - Home: index.md
+
+copyright: Copyright &copy; John G. Tittle — Licensed under CC BY-NC-SA 4.0
