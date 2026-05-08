@@ -1,9 +1,9 @@
 site_name: Intentional Journey of the Heart
 site_description: Notes to My Kids (and Grandkids) — On My Personal Exploration of the Laws of God's Love
 site_author: John G. Tittle
-site_url: https://jgtittle.github.io/Intentional-Journey-of-the-Heart/
-repo_url: https://github.com/jgtittle/Intentional-Journey-of-the-Heart
-repo_name: jgtittle/Intentional-Journey-of-the-Heart
+site_url: https://jgtittle-ministries.github.io/Intentional-Journey-of-the-Heart/
+repo_url: https://github.com/jgtittle-ministries/Intentional-Journey-of-the-Heart
+repo_name: jgtittle-ministries/Intentional-Journey-of-the-Heart
 edit_uri: edit/main/docs/
 
 theme:
