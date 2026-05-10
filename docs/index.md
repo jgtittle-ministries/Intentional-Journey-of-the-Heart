@@ -6,7 +6,7 @@ title: "Home"
 
 *Notes to My Kids (and Grandkids): On My Personal Exploration of the Laws of God's Love*
 
-**By John G. Tittle** — Revised Edition v5.5.7
+**By John G. Tittle** — Revised Edition v5.5.7.1
 
 ---
 
@@ -21,7 +21,8 @@ Begin with the [Read Me First](read-me-first.md), then the [Introduction](introd
 - **[Volume 3: Quantitative Framework](volume-3-quantitative-framework/index.md)**
 - **[Volume 4: Testing Framework](volume-4-testing-framework/index.md)**
 - **[Volume 5: References](volume-5-references/index.md)**
+- **[Volume 6: Governance](volume-6-governance/index.md)**
 
 ---
 
-*This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) per Volume 6 §10. Governance documents (Volume 6, GOVERNANCE, PROPOSAL_TEMPLATE, SUCCESSION_LETTER, SCHEMA) live in the repository root, not on this reading site.*
+*This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) per [Volume 6 §10](volume-6-governance/part-1-governance-model.md#10-licensing). The operative governance artifacts — `GOVERNANCE.md`, `CONTRIBUTING.md`, `PROPOSAL_TEMPLATE.md`, `SUCCESSION_LETTER.md`, and `SCHEMA.md` — live in the repository root; Volume 6 itself, which describes them, is on this reading site.*

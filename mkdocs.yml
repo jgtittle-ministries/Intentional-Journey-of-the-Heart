@@ -67,9 +67,10 @@ plugins:
 
 # ---------------------------------------------------------------
 # NAV — generated from extract_volumes.py (v5_5_7 source)
-# Reading site: Read Me First, Introduction, Volumes 1-5.
-# Volume 6 (governance) is intentionally NOT in the reading site —
-# it lives at the repository root as a directive, not Pages content.
+# Reading site: Read Me First, Introduction, Volumes 1-6.
+# Volume 6 (governance) was added to the reading site in v5.5.7.1;
+# its operative artifacts (GOVERNANCE, CONTRIBUTING, etc.) remain
+# at the repository root.
 # ---------------------------------------------------------------
 nav:
   - Home: index.md
@@ -177,5 +178,11 @@ nav:
     - "Conclusion": volume-5-references/conclusion.md
     - "References": volume-5-references/references.md
     - "Measuring Spiritual Formation at Scale": volume-5-references/measuring-spiritual-formation-at-scale.md
+  - "Vol 6: Governance":
+    - volume-6-governance/index.md
+    - "Part 1: Governance Model": volume-6-governance/part-1-governance-model.md
+    - "Part 2: The Council": volume-6-governance/part-2-council-fellowship.md
+    - "Part 3: Succession Letter": volume-6-governance/part-3-succession-letter.md
+    - "Proposal Template": volume-6-governance/proposal-template.md
 
 copyright: Copyright &copy; John G. Tittle — Licensed under CC BY 4.0
