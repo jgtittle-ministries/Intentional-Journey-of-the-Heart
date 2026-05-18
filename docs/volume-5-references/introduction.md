@@ -16,6 +16,7 @@ It also includes the five Formation Documents referenced throughout the first fo
 - MSFIG - A Model of Spiritual Formation for Individuals and Small Groups
 - FC - Formation Companion
 - 4Cs - Four Connects
+- Measuring Spiritual Formation at Scale
 
 The annotation format follows the structure used in my academic work: an Author section identifying who the person is or was; a Summary section describing the relevant work, idea, or contribution; and an Application section explaining specifically how this person’s work connects to the LotS project, with volume and exploration references where applicable. The goal is not an exhaustive academic literature review but a working reference document — one that a future researcher, a family member continuing this exploration, could use to locate and evaluate the sources that shaped this project.
 
