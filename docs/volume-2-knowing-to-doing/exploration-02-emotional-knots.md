@@ -1,7 +1,7 @@
 ---
 title: "Second Exploration: Emotional Knots — The Energetic Blockage Law"
 volume: 2
-source: "IJH_Vol2_v5_5_7.docx"
+source: "IJH_Vol2_v5_6_1_1.docx"
 ---
 
 # Second Exploration: Emotional Knots — The Energetic Blockage Law
@@ -75,7 +75,7 @@ Both dynamics show up in knot work. When a man has engaged a tool correctly, and
 
 **Proposed Law (Operational): An emotional knot is a sustained energetic load on the heart created by unresolved loss, a believed lie, experienced injustice, unconfessed sin, or incomplete communication. It operates as a self-sustaining feedback loop that drains the bandwidth of attention and will that ****is**** required for genuine hearing. The release mechanism in every case is a revelation of truth delivered by the Holy Spirit to the specific part of the heart holding the knot. No tool releases a knot apart from the ministry of the Spirit; the tools help create the conditions for the Spirit to work.**
 
-**Certainty: 85****%  ***Mechanism** is experientially confirmed over multiple decades and across many people. The four-type taxonomy is a working hypothesis — the categories may overlap, and the boundaries may be less clean than stated. Community testing will sharpen this. The distinction between weight and sin (Heb. 12:1) is high-confidence; the specific release mechanism is high-confidence; the tool-to-type mapping in Exploration 6 is medium-confidence.*
+**Certainty: Clearly ****Taught  ***Mechanism** is experientially confirmed over multiple decades and across many people. The four-type taxonomy is a working hypothesis — the categories may overlap, and the boundaries may be less clean than stated. Community testing will sharpen this. The distinction between weight and sin (Heb. 12:1) is high-confidence; the specific release mechanism is high-confidence; the tool-to-type mapping in Exploration 6 is medium-confidence.*
 
 FORMATION DOCUMENT CONNECTION: The emotional knot functions as a self-sustaining feedback loop that depletes the bandwidth of attention and will, which are essential for genuine listening. SST’s soul Level 1 (Awareness of Soul-Disorder) is a prerequisite for any knot-clearing work—a person who has not yet recognized that the soul is disordered (Level 1.1–1.3) will resist the diagnostic process even when others can see the knot. SST suggests that recognizing soul-disorder makes scripture’s claims feel personally urgent rather than just abstract interests. This aligns precisely with the shift from Affective Level 2 (extrinsic compliance) to Level 3 (intrinsic valuing) in the heart taxonomy. The practical takeaway: the diagnostic process in this Exploration and the soul Level 1 work in SST are the same effort viewed from different perspectives. When both are done together—naming internal fragmentation and pinpointing the specific knot—the subsequent clearing work in later Explorations is more likely to succeed.
 

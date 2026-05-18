@@ -1,7 +1,7 @@
 ---
 title: "Part I: Scholarly and Academic Sources"
 volume: 5
-source: "IJH_Vol5_v5_5_7.docx"
+source: "IJH_Vol5_v5_6_1_1.docx"
 ---
 
 # Part I: Scholarly and Academic Sources
@@ -41,7 +41,7 @@ source: "IJH_Vol5_v5_5_7.docx"
 
 **Summary: **Einstein’s work demonstrated that Newtonian mechanics — which had been the complete and unchallenged description of physical reality for over two hundred years — was not wrong but incomplete. From inside the Newtonian frame, relativistic effects appear impossible or anomalous. From inside the Einsteinian frame, Newtonian mechanics is seen as a valid approximation at low velocities. This expansion of framework without discarding the prior framework is the key conceptual move.
 
-**Application: **The LotS project uses Einstein’s relationship to Newton as a structural analogy in Vol 1’s introduction to explain how new explorations may refine or expand the working axioms without discarding them. The author explicitly models the LotS epistemological stance on this pattern: the four foundational axioms are held at “90% certainty” with the explicit acknowledgment that further exploration may refine the general framework just as Einstein refined Newton. This analogy appears in the introduction to Vol 1 and shapes the project’s approach to certainty ratings throughout.
+**Application: **The LotS project uses Einstein’s relationship to Newton as a structural analogy in Vol 1’s introduction to explain how new explorations may refine or expand the working axioms without discarding them. The author explicitly models the LotS epistemological stance on this pattern: the four foundational axioms are held at “Clearly Taught certainty” with the explicit acknowledgment that further exploration may refine the general framework just as Einstein refined Newton. This analogy appears in the introduction to Vol 1 and shapes the project’s approach to certainty ratings throughout.
 
 ## Feynman, Richard P.
 **Author: **Richard P. Feynman (1918–1988) was an American theoretical physicist at the California Institute of Technology, Nobel Laureate in Physics (1965), and one of the most gifted scientific communicators of the twentieth century. His Messenger Lectures at Cornell, published as *The Character of Physical Laws*, addressed fundamental questions about why mathematics so precisely describes the physical universe.
@@ -108,7 +108,7 @@ source: "IJH_Vol5_v5_5_7.docx"
 
 **Summary: **Newtonian mechanics was the complete and unchallenged description of physical reality for over two hundred years before Einstein showed it to be a special case of a more general relativistic framework. The Newtonian framework remains valid and useful at low velocities; it was refined but not discarded. Additionally, Newton’s logical structure — beginning from axioms (the three laws) and deriving consequences — is the model for the LotS project’s own axiomatic approach.
 
-**Application: **Newton is referenced in Vol 1 in the introduction where the author borrows the language of axioms from mathematics and physics: just as Euclidean geometry and Newtonian mechanics work from a small set of starting assumptions and build outward, the LotS project works from four foundational axioms held at roughly 90% certainty. The Einstein-Newton relationship (refinement without discarding) is used to model the LotS epistemological stance. In Vol 3, the Galileo-Newton kinematic/dynamic relationship is used to frame the relationship between Vols 1–2 (kinematics) and Vol 3 (dynamics).
+**Application: **Newton is referenced in Vol 1 in the introduction where the author borrows the language of axioms from mathematics and physics: just as Euclidean geometry and Newtonian mechanics work from a small set of starting assumptions and build outward, the LotS project works from four foundational axioms held at roughly Clearly Taught certainty. The Einstein-Newton relationship (refinement without discarding) is used to model the LotS epistemological stance. In Vol 3, the Galileo-Newton kinematic/dynamic relationship is used to frame the relationship between Vols 1–2 (kinematics) and Vol 3 (dynamics).
 
 ## Schwarz, Christian A.
 **Author: **Christian A. Schwarz (b. 1956, Germany) is the founder and president of NCD International and one of the most widely read figures in empirical church development research. His NCD framework has been implemented by more than 70,000 churches in 84 countries and 112 denominations. His work is grounded simultaneously in empirical research (survey methodology, longitudinal tracking), the classical philosophical tradition (the three transcendentals of Truth, Goodness, and Beauty), and the Reformed-Evangelical-Charismatic theological tradition. His most recent work — the Energy Trilogy (2021–2022) — grounds the NCD framework in the New Testament’s own vocabulary for divine energy at work in the believer.

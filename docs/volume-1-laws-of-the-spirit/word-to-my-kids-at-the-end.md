@@ -1,7 +1,7 @@
 ---
 title: "A Word to My Kids at the End of This Volume"
 volume: 1
-source: "IJH_Vol1_v5_5_7.docx"
+source: "IJH_Vol1_v5_6_1_1.docx"
 ---
 
 # A Word to My Kids at the End of This Volume
@@ -16,6 +16,4 @@ I’m still working on the alignment. I expect I will be for the rest of my life
 
 *Blessings — Daddy and Granddaddy*
 
-![](images/image-007.jpeg)
-
-**Vol 1 — Supplemental Exploration — Structural Law**
+![](images/image-008.jpeg)

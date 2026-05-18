@@ -1,7 +1,7 @@
 ---
 title: "Third Exploration: Spiritual Force — The Analytical Core"
 volume: 3
-source: "IJH_Vol3_v5_5_7.docx"
+source: "IJH_Vol3_v5_6_1_1.docx"
 ---
 
 # Third Exploration: Spiritual Force — The Analytical Core
@@ -11,7 +11,7 @@ The right place to start the quantitative program is not with the most ambitious
 
 The first question for Vol. 3 is: What force drives this flow? What pushes faith into the stock? And what are the forces that drain it?
 
-## The Mustard Seed: Threshold or Proportionality? Resolution Required.
+## The Mustard Seed: Threshold or Proportionality?
 
 ![](images/image-004.jpeg)
 
@@ -83,11 +83,11 @@ Where: f() is a threshold function (0 below genuine trust threshold, nonzero abo
 
 The multiplicative structure is intentional: these are not additive contributions. A person with high authority alignment but low channel clarity will not produce effective spiritual force. A person with a perfectly cleared channel but outside their domain of delegated authority will likewise be limited. All four factors must be in place for the full force to operate.
 
-I hold this equation form at 40% certainty. The factors are right. The multiplicative structure is my best current hypothesis. The specific functional forms of f, g, h, and i are open trails.
+I hold this equation form at Speculative certainty. The factors are right. The multiplicative structure is my best current hypothesis. The specific functional forms of f, g, h, and i are open trails.
 
 **HYPOTHESIS: Provisional Equation: F_s = ****f(****trust threshold) × ****g(****authority alignment) × h(resonance) × ****i****(****channel clarity). All four factors are necessary; none is sufficient on ****its**** own. The multiplicative structure implies that weakness in any one factor severely limits the overall effective force, regardless of the strength of the others.**
 
-**Certainty: 40****%  ***The** four factors are well-supported by the scriptural data points. The multiplicative structure is a hypothesis. The specific functional forms are open trails. Community testing across many observed miracle events would sharpen this considerably.*
+**Certainty: ****Speculative  ***The** four factors are well-supported by the scriptural data points. The multiplicative structure is a hypothesis. The specific functional forms are open trails. Community testing across many observed miracle events would sharpen this considerably.*
 
 **FORMATION DOCUMENT CONNECTION: ***The four factors in the spiritual force equation have formation-level analogs in the Formation Documents worth making explicit. The trust threshold factor maps to Affective Level 3 (Valuing) as a minimum entry condition: a person operating at Level 1–2 has not yet developed the intrinsic trust that makes genuine faith-action available. The channel clarity factor maps to Vol 2’s entire diagnostic and clearing framework, which the Formation Documents’ soul taxonomy describes developmentally: a person at soul Stage 1–2 will have more channel interference than one at Stage 3–4. The authority factor and the resonance factor both require spirit Stage 2+ (Learning to Follow the Spirit) as a developmental prerequisite — you cannot operate within delegated authority you have not yet learned to discern. The formation implication of the multiplicative structure: a person at early formation stages in any one factor will limit the effective force available, regardless of development in the others.*
 

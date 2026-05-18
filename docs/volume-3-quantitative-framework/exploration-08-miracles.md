@@ -1,7 +1,7 @@
 ---
 title: "Eighth Exploration: Miracles — Resonance Points in the Spiritual System"
 volume: 3
-source: "IJH_Vol3_v5_5_7.docx"
+source: "IJH_Vol3_v5_6_1_1.docx"
 ---
 
 # Eighth Exploration: Miracles — Resonance Points in the Spiritual System
@@ -35,7 +35,7 @@ Stage 2, responding, is the obedience challenge. If led to act and I don’t, th
 
 **Proposed Law (Operational): Miracles are threshold events in the spiritual resonance system. They occur when four conditions converge in a specific moment: the resonance condition (persistent aligned prayer has accumulated spiritual force above the threshold), the authority condition (the person acting is within their delegated domain), the channel condition (heart soil is in good condition, blockages cleared), and the perception condition (the actor has noticed what is available and is responding in obedience rather than presumption). The absence of any one of these four conditions significantly reduces the probability of the threshold event occurring, regardless of the strength of the others.**
 
-**Certainty: 55****%  ***The** four-**condition** structure is consistent with the scriptural data and with the **Vol 1 and Vol 2 laws**. The threshold-event model (sudden onset rather than gradual proportional response) is suggested by the data points (the cloud appeared at the seventh prayer, not proportionally through the first six). The specific mechanism of resonance accumulation is an illustrative analogy, not a load-bearing equation, at this stage.*
+**Certainty: ****Speculative  ***The** four-condition structure is consistent with the scriptural data and with the **Vol 1 and Vol 2 laws**. The threshold-event model (sudden onset rather than gradual proportional response) is suggested by the data points (the cloud appeared at the seventh prayer, not proportionally through the first six). The specific mechanism of resonance accumulation is an illustrative analogy, not a load-bearing equation, at this stage.*
 
 **FORMATION DOCUMENT CONNECTION: ***The four convergent conditions for miracle events (resonance, authority, channel clarity, perception) all have formation-level prerequisites that the Spirit and Soul taxonomies now make explicit. Perception, the actor has noticed what is available and is responding in **obedience rather than presumption, is the formation condition most directly named, and it corresponds to spirit Stage 2 (Learning to Follow the Spirit), specifically the discernment practice of distinguishing the Spirit’s promptings from one’s own thoughts and desires. Channel clarity corresponds to soul Stages 2–3 (Receptivity and Renewal) as the developmental horizon: a soul still at Stage 1 (disorder recognized but not yet surrendering self-governance) will experience more channel interference than a soul at Stage 3 (Renewal). MSFIG’s observation about measurement applies here too: the four conditions are partially opaque to external observation, and the Affective Taxonomy’s observable behavioral indicators are the best available proxy for assessing their presence.*
 

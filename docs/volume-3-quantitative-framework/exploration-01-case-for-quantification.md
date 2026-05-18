@@ -1,7 +1,7 @@
 ---
 title: "First Exploration: The Case for Quantification"
 volume: 3
-source: "IJH_Vol3_v5_5_7.docx"
+source: "IJH_Vol3_v5_6_1_1.docx"
 ---
 
 # First Exploration: The Case for Quantification
@@ -12,7 +12,7 @@ source: "IJH_Vol3_v5_5_7.docx"
 ## The Original Vision and Its Source
 The seed of this entire volume set was made public for the first time in January 2003, when Amanda wrote the Heartbeat article that introduced the IJH project to the Christ the Redeemer Church community. The vision she described — that the spiritual world should be as orderly and knowable as the physical world that the same God created — has been the basis for everything since. But the ambition of Vol 3 goes further: not just that the laws are knowable qualitatively, but that they can be expressed in forms precise enough to make specific predictions that can be tested.
 
-Richard Feynman, in “The Character of Physical Laws,” asks: Why does mathematics describe the physical universe so accurately? He calls this the “unreasonable effectiveness of mathematics” and admits he does not know the full answer. My suggestion — at about 50% certainty — is that mathematics describes the physical world so accurately because the physical world was spoken into existence by the Logos, the eternal Word, and the mathematical structure of creation is a trace of the structure of the Logos. If that is right, the spiritual world — which is more fundamental than the physical world, not less — should have a mathematical structure, deeper and more fundamental than what physics has found so far.
+Richard Feynman, in “The Character of Physical Laws,” asks: Why does mathematics describe the physical universe so accurately? He calls this the “unreasonable effectiveness of mathematics” and admits he does not know the full answer. My suggestion — at about Speculative certainty — is that mathematics describes the physical world so accurately because the physical world was spoken into existence by the Logos, the eternal Word, and the mathematical structure of creation is a trace of the structure of the Logos. If that is right, the spiritual world — which is more fundamental than the physical world, not less — should have a mathematical structure, deeper and more fundamental than what physics has found so far.
 
 ***John 1:1-3 (ESV)***
 
@@ -38,11 +38,11 @@ My working proposal: if spiritual distance can be operationalized through someth
 
 So, the REVEAL program offered a continuum of progress with defined stages. However, I think the Affective Taxonomy of progressive internalization offers a more grounded and measurable definition of spiritual distance.  This is how “Entangled” you are with Christ in the Affective Taxonomy of progress, where more internalization is more entanglement. This uses entanglement in the QFT sense for particles, so that physical distance doesn’t matter.
 
-**TFT CONNECTION: ***TFT provides the configuration space that gives spiritual distance a more formal home: the transcendental manifold with Truth (φ), Goodness (χ), and Beauty (η) as orthogonal coordinate axes. Position in this space, and movement through it, are the TFT **analogs** of what I have been calling spiritual distance and spiritual velocity. This is the most important structural gift TFT makes **to** the Vol 3 project.*
+**TFT CONNECTION: ***TFT provides the configuration space that gives spiritual distance a more formal home: the transcendental manifold with Truth (φ), Goodness (χ), and Beauty (η) as orthogonal coordinate axes. Position in this space, and movement through it, are the TFT analogs of what I have been calling spiritual distance and spiritual velocity. This is the most important structural gift TFT makes **to** the Vol 3 project.*
 
-**Governing Premise of Vol 3: If the spiritual world is as orderly as the natural world — the foundational claim of the entire ****IJH**** project — then its laws should be expressible not only qualitatively (as in Vol 1) but quantitatively: as measurable quantities, relational equations, conservation laws, and predictive models. The program of Vol 3 is to identify candidate quantities, propose candidate equations, and be rigorously honest about where the analogies are illustrative only versus where they have genuine load-bearing precision.**
+**Governing Premise of Vol 3: If the spiritual world is as orderly as the natural world — the foundational claim of the entire IJH project — then its laws should be expressible not only qualitatively (as in Vol 1) but quantitatively: as measurable quantities, relational equations, conservation laws, and predictive models. The program of Vol 3 is to identify candidate quantities, propose candidate equations, and be rigorously honest about where the analogies are illustrative only versus where they have genuine load-bearing precision.**
 
-**Certainty: 75****%  ***High** confidence that the program is correct in principle. Medium confidence in any specific proposed quantity or equation form. Low confidence (30–40%) in specific numerical relationships until a measurement protocol is established and community-tested.*
+**Certainty: Reasonably ****Inferred  ***High** confidence that the program is correct in principle. Medium confidence in any specific proposed quantity or equation form. Low confidence (30–Speculative) in specific numerical relationships until a measurement protocol is established and community-tested.*
 
 **FORMATION DOCUMENT CONNECTION: ***The quantification program proposed in this Exploration and the measurement program proposed in the Formation Documents are the same program approached from different starting points. This Exploration asks: Can spiritual laws be expressed as measurable quantities and relational equations? MSFIG and HFT ask: Can formation progress be assessed with enough precision to be useful to coaches and disciples? The Formation Documents’ answer is cautiously affirmative, using the same epistemic humility flagged in this Exploration’s Certainty statement: high confidence in the program, medium confidence in specific quantities, and low confidence in specific numerical relationships until a measurement protocol is established and **community-tested**. The Formation Documents go further in proposing what to measure: the Affective Taxonomy level of a specific affective target (trust in scripture as the pilot case), assessed via self-report Likert scale at regular intervals and external-witness behavioral observation.*
 

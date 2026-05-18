@@ -1,7 +1,7 @@
 ---
 title: "Volume 5: References — Overview"
 volume: 5
-source: "IJH_Vol5_v5_5_7.docx"
+source: "IJH_Vol5_v5_6_1_1.docx"
 ---
 
 
@@ -13,26 +13,25 @@ Contents of Volume 5: References. Each entry below opens that section of the vol
 - [Part I: Scholarly and Academic Sources](part-i-scholarly-and-academic-sources.md) — Part I: Scholarly and Academic Sources
 - [Part II: Spiritual Formation and Theological Authors](part-ii-spiritual-formation-and-theological-authors.md) — Part II: Spiritual Formation and Theological Authors
 - [Part III: Processes and Ministry Tools](part-iii-processes-and-ministry-tools.md) — Part III: Processes and Ministry Tools
-- [Part IV: Scripture Figures as Case Studies](part-iv-scripture-figures-as-case-studies.md) — Part IV: Scripture Figures as Case Studies
-- [Part V: LotS Project Participants](part-v-lots-project-participants.md) — Part V: LotS Project Participants
-- [Reference Material Used in LotS](reference-material-used-in-lots.md) — Reference Material Used in LotS
-- [Theological Anthropology of the Heart, Spirit, Soul, and Mind: Implications f...](theological-anthropology-of-the-heart-spirit-soul.md) — Theological Anthropology of the Heart, Spirit, Soul, and Mind: Implications for Training in Spiritual Formation
-- [The Heart in Formation: Affective Taxonomy as a Framework for Heart Training](heart-in-formation-affective-taxonomy-as-a.md) — The Heart in Formation: Affective Taxonomy as a Framework for Heart Training
-- [Soul and Spirit Taxonomies for Spiritual Formation](soul-and-spirit-taxonomies-for-spiritual-formation.md) — Soul and Spirit Taxonomies for Spiritual Formation
-- [A Model of Spiritual Formation for Individuals and Small Groups](model-of-spiritual-formation-for-individuals-and.md) — A Model of Spiritual Formation for Individuals and Small Groups
-- [Abstract](abstract.md) — Abstract
-- [What a Formation Companion Is](what-a-formation-companion-is-and-is.md) — What a Formation Companion Is — and Is Not
-- [The Four Contributing Traditions](four-contributing-traditions.md) — The Four Contributing Traditions
-- [The Core Competencies](core-competencies-what-the-four-traditions-share.md) — The Core Competencies — What the Four Traditions Share
-- [The Three Levels of Companion Development](three-levels-of-companion-development.md) — The Three Levels of Companion Development
-- [Mode Specializations](mode-specializations.md) — Mode Specializations
-- [The Level III Mode-Switching Capstone](level-iii-mode-switching-capstone.md) — The Level III Mode-Switching Capstone
-- [On the Discerning Use of Non-Christian-Grounded Methodologies](on-the-discerning-use-of-non-christian.md) — On the Discerning Use of Non-Christian-Grounded Methodologies
-- [Character Prerequisites for the Formation Companion Role](character-prerequisites-for-the-formation-companion-role.md) — Character Prerequisites for the Formation Companion Role
-- [Tool Inventory](tool-inventory-first-pass.md) — Tool Inventory — First Pass
-- [Hearing and Obeying](hearing-and-obeying-the-developmental-spine.md) — Hearing and Obeying — The Developmental Spine
-- [Recognized Credentialing Pathways](recognized-credentialing-pathways.md) — Recognized Credentialing Pathways
-- [The Four Connects as the Companion's Own Formation](four-connects-as-the-companions-own-formation.md) — The Four Connects as the Companion's Own Formation
-- [Conclusion](conclusion.md) — Conclusion
-- [References](references.md) — References
+- [Part VI: Tool Protocols](part-vi-tool-protocols.md) — Part VI: Tool Protocols
+- [B17 PIES Communication and Clearing Model](b17-pies-communication-and-clearing-model.md) — B17 PIES Communication and Clearing Model
+- [B18 Heart Prayer Time](b18-heart-prayer-time.md) — B18 Heart Prayer Time
+- [A24 Blessing Receiving Protocol (with the God-Split for Shame Removal)](a24-blessing-receiving-protocol-with-the-god.md) — A24 Blessing Receiving Protocol (with the God-Split for Shame Removal)
+- [A25 Breaking the Contracts Exercise](a25-breaking-the-contracts-exercise.md) — A25 Breaking the Contracts Exercise
+- [A15 7×7 Process (Mortality Visualization) Protocol](a15-7-7-process-mortality-visualization-protocol.md) — A15 7×7 Process (Mortality Visualization) Protocol
+- [A16 Group Mission of Service Protocol](a16-group-mission-of-service-protocol.md) — A16 Group Mission of Service Protocol
+- [A21 Say Your Mission / Mission Resonance Circle Protocol](a21-say-your-mission-mission-resonance-circle.md) — A21 Say Your Mission / Mission Resonance Circle Protocol
+- [A22 BoB Onboarding Protocol](a22-bob-onboarding-protocol.md) — A22 BoB Onboarding Protocol
+- [A26 Tell Your Story Protocol](a26-tell-your-story-protocol.md) — A26 Tell Your Story Protocol
+- [A28 Heart Bible Study with PROAPT](a28-heart-bible-study-with-proapt.md) — A28 Heart Bible Study with PROAPT
+- [A29 Any Doubts Process](a29-any-doubts-process.md) — A29 Any Doubts Process
+- [A32 Hot Seat Protocol (with Mini Hot Seat as named variant)](a32-hot-seat-protocol-with-mini-hot.md) — A32 Hot Seat Protocol (with Mini Hot Seat as named variant)
+- [A33 What's at Risk Protocol](a33-whats-at-risk-protocol.md) — A33 What's at Risk Protocol
+- [Mission-Arc Family (A27 + A30 + A31)](mission-arc-family-a27-a30-a31.md) — Mission-Arc Family (A27 + A30 + A31)
+- [B11 Ideal Support Figure](b11-ideal-support-figure.md) — B11 Ideal Support Figure
+- [B12 Process Work Recipe](b12-process-work-recipe.md) — B12 Process Work Recipe
+- [B13 Front/Back Facilitator Team Structure](b13-front-back-facilitator-team-structure.md) — B13 Front/Back Facilitator Team Structure
+- [B14 Kinesthetic Metaphor](b14-kinesthetic-metaphor.md) — B14 Kinesthetic Metaphor
+- [B15 Pull-out Work](b15-pull-out-work.md) — B15 Pull-out Work
+- [The Periodic Table of Spiritual Laws](periodic-table-of-spiritual-laws-a-summing.md) — The Periodic Table of Spiritual Laws — A Summing and Organizing Reference
 - [Measuring Spiritual Formation at Scale](measuring-spiritual-formation-at-scale.md) — Measuring Spiritual Formation at Scale

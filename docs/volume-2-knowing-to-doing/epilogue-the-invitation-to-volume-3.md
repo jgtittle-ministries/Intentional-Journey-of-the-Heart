@@ -1,7 +1,7 @@
 ---
 title: "Epilogue: The Invitation to Volume 3"
 volume: 2
-source: "IJH_Vol2_v5_5_7.docx"
+source: "IJH_Vol2_v5_6_1_1.docx"
 ---
 
 # Epilogue: The Invitation to Volume 3
@@ -22,3 +22,5 @@ If you have not experienced all three yet, that is not a failure. It is simply a
 Volume 3 is further up and further in. I will meet you there.
 
 *Blessings — Daddy and Granddaddy*
+
+![](images/image-003.jpeg)
