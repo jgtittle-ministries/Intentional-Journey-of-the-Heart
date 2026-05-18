@@ -6,7 +6,7 @@ title: "Home"
 
 *Notes to My Kids (and Grandkids): On My Personal Exploration of the Laws of God's Love*
 
-**By John G. Tittle** — Revised Edition v5.5.7.1
+**By John G. Tittle** — Revised Edition v5.6
 
 ---
 
