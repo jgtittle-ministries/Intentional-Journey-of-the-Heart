@@ -40,6 +40,10 @@ jobs:
           git remote set-url --push origin \
             "https://x-access-token:${MIRROR_TOKEN}@github.com/${DEST_REPO}.git"
 
+          # --mirror clone marks the remote mirror=true, which forbids custom
+          # refspecs on push. Unset it so we can target heads/tags explicitly.
+          git config --unset remote.origin.mirror
+
           git push --prune --force origin \
             'refs/heads/*:refs/heads/*' \
             'refs/tags/*:refs/tags/*'
