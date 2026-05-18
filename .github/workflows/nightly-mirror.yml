@@ -1,0 +1,37 @@
+name: Nightly mirror backup
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: nightly-mirror
+  cancel-in-progress: false
+
+jobs:
+  mirror:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - name: Mirror to private backup repo
+        env:
+          MIRROR_TOKEN: ${{ secrets.MIRROR_PAT }}
+          DEST_REPO: jgtittle/Intentional-Journey-of-the-Heart
+        run: |
+          set -euo pipefail
+
+          if [ -z "${MIRROR_TOKEN:-}" ]; then
+            echo "::error::MIRROR_PAT secret is not set on this repo."
+            exit 1
+          fi
+
+          git clone --mirror "https://github.com/${GITHUB_REPOSITORY}.git" repo.git
+          cd repo.git
+          git remote set-url --push origin "https://x-access-token:${MIRROR_TOKEN}@github.com/${DEST_REPO}.git"
+          git push --mirror
+
+          echo "Mirrored ${GITHUB_REPOSITORY} -> ${DEST_REPO} at $(date -u +%FT%TZ)"
