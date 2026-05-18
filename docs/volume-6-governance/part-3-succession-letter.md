@@ -31,7 +31,7 @@ I am naming two successors, one for each of two distinct roles. The roles may be
 The **Literary Executor** holds practical custody of the IJH corpus and its associated digital property. Specifically:
 
 - All copyright interests I hold in the IJH volumes, the Formation Documents (TA, HFT, SST, MSFIG, FC, and any additional Formation Documents added later), and any future materials I add to the project.
-- The GitHub organization and repositories (currently at `epithetical/intentional-journey-of-the-heart` and any successor organization).
+- The GitHub organization and repositories (currently at [jgtittle-ministries/Intentional-Journey-of-the-Heart](https://github.com/jgtittle-ministries/Intentional-Journey-of-the-Heart) and any successor organization).
 - The domain names, hosting accounts, and credentials necessary to keep the published site operative.
 - Any royalty streams, donations, or grants directed to the work.
 
