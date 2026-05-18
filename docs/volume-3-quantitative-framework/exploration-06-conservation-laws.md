@@ -1,7 +1,7 @@
 ---
 title: "Sixth Exploration: Conservation Laws — The Hardest Question in Vol 3"
 volume: 3
-source: "IJH_Vol3_v5_5_7.docx"
+source: "IJH_Vol3_v5_6_1_1.docx"
 ---
 
 # Sixth Exploration: Conservation Laws — The Hardest Question in Vol 3
@@ -44,9 +44,9 @@ If this is right, then spiritual capacity in the full sense (position in the tra
 
 **Proposed Conservation Framework (Low Certainty): In the spiritual world, (1) capacity that is used tends to grow; capacity unused tends to diminish — an anti-conservative dynamic, unlike physical energy. (2) God’s provision in the spiritual frame is not constrained by natural conservation laws; it is constrained by the ****receptive capacity of the created system. (3) The confession-restoration cycle conserves the underlying spiritual position but removes the obstacle that was preventing that position from expressing as an effective force and power. These three are not a single conservation law but a family of related observations that will eventually ****resolve**** into a more unified framework.**
 
-**Certainty: 35****%  —****  ***These are the most speculative statements in the entire **IJH** project. Each is individually grounded in specific scriptural data points. The unified framework is my hypothesis about how they relate. Community testing and theological scrutiny are essential before any of these are elevated from hypothesis to candidate law.*
+**Certainty: ****Speculative  —****  ***These are the most speculative statements in the entire IJH project. Each is individually grounded in specific scriptural data points. The unified framework is my hypothesis about how they relate. Community testing and theological scrutiny are essential before any of these are elevated from hypothesis to candidate law.*
 
-**OPEN TRAIL: ***Does Noether’s theorem apply to TFT’s Lagrangian in a form that yields identifiable conserved quantities? What are the symmetries of **the spiritual** dynamics, and what do they conserve? This is the most mathematically demanding open trail in the entire **IJH** project, likely requiring collaboration with someone trained in mathematical physics.*
+**OPEN TRAIL: ***Does Noether’s theorem apply to TFT’s Lagrangian in a form that yields identifiable conserved quantities? What are the symmetries of **the spiritual** dynamics, and what do they conserve? This is the most mathematically demanding open trail in the entire IJH project, likely requiring collaboration with someone trained in mathematical physics.*
 
 **PART IV**
 

@@ -1,13 +1,13 @@
 ---
 title: "Sixth Exploration: The Obedience Channel — How Revelation Flows"
 volume: 1
-source: "IJH_Vol1_v5_5_7.docx"
+source: "IJH_Vol1_v5_6_1_1.docx"
 ---
 
 # Sixth Exploration: The Obedience Channel — How Revelation Flows
 
 
-![](images/image-008.png)
+![](images/image-004.png)
 
 ## The Discovery
 This is one of those things that, once I saw it, I could not un-see it. And I am a little embarrassed that I had not formalized it as a law earlier, because it has operated in my life for decades. The law is simple: acting on what God has already shown you is the condition for receiving more revelation.
@@ -43,10 +43,12 @@ There is a collective version of this law as well. When a community is in collec
 
 **Proposed Law (Operational): Obedience to prior revelation is the causal condition for receiving subsequent revelation. The quality of the hearing channel in the Word → Hearing → Faith chain is modulated by obedience history. Obedience keeps the channel open and increases its gain; disobedience introduces resistance and, compounded, closes the channel entirely. There is typically a time delay between obedience and next-revelation that makes the causal connection easy to miss.**
 
-**Certainty: 85% ***High confidence. John 7:17 is explicit; the pattern is confirmed across multiple texts and in personal experience. The time delay mechanism and its systems dynamics implications are still being worked out.*
+**Certainty: Clearly Taught ***High confidence. John 7:17 is explicit; the pattern is confirmed across multiple texts and in personal experience. The time delay mechanism and its systems dynamics implications are still being worked out.*
 
-**VOL 3 CONNECTION: ***The Obedience Channel law is one of the two primary feedback loops in Vol 3’s systems dynamics model (Vol 3, Exp. 7: Feedback Loops). Vol 3 formalizes it as the Faith-Obedience Reinforcing Engine — the self-amplifying loop in which obedience generates confirmation, confirmation increases trust, and increased trust produces more obedient action. Vol 3 also quantifies the time-delay variable introduced here as a critical parameter in the loop’s behavior.*
+**Connections**
 
-**FORMATION DOCUMENT CONNECTION: ***The Obedience Channel — obedience to prior revelation as the causal condition for receiving subsequent revelation — is what HFT’s Affective Level 3 (Valuing) looks like from the outside. At Level 3, the person is pursuing scripture not because external structures require it but from personal desire and conviction; at Level 3 they also begin acting on what they hear, which is exactly the obedience this law names as the channel-opening event. MSFIG develops this further: the Willard-Friesen debate about quotidian guidance is resolved by the taxonomy precisely at this point — Willard’s practice of attending to the Spirit in small decisions is training for the Level 2 to Level 3 transition, building the obedience habit that eventually becomes characteristic. The time-delay variable flagged in this law’s Certainty statement — the gap between obedience and next revelation that makes the causal connection easy to miss — is directly relevant to MSFIG’s section on non-linear, spiral progress: what looks like stagnation during the delay period may be Brueggemann’s disorientation phase operating as a formation engine.*
+**Vol 3. ***Formalized as the Faith-Obedience Reinforcing Engine in Vol 3 (Exp. 7: Feedback Loops): the self-amplifying loop in which obedience generates confirmation, confirmation increases trust, and trust produces more obedient action. Vol 3 quantifies the time-delay variable introduced here as a critical parameter.*
+
+**Formation Documents. ***Obedience to prior revelation is what HFT’s Affective Level 3 (Valuing) looks like from the outside. MSFIG develops this further: the Willard-Friesen debate about quotidian guidance **is resolved by the taxonomy precisely at this point. The time-delay flagged in this Exploration’s Certainty corresponds to MSFIG’s treatment of Brueggemann disorientation as a formation engine.*
 
 **Seventh Exploration — New Discovery**

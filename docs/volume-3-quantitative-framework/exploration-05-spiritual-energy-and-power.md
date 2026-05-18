@@ -1,7 +1,7 @@
 ---
 title: "Fifth Exploration: Spiritual Energy and Power"
 volume: 3
-source: "IJH_Vol3_v5_5_7.docx"
+source: "IJH_Vol3_v5_6_1_1.docx"
 ---
 
 # Fifth Exploration: Spiritual Energy and Power
@@ -41,7 +41,7 @@ This scripture is not exhortation alone; it is a systems design principle. The w
 
 **HYPOTHESIS: Spiritual energy is a finite resource within any given time frame, replenished primarily through the Word, worship, and prayer (the Vol 1 inflows into the faith stock), and depleted by active spiritual operation and by the maintenance cost of unresolved emotional knots. The practice of regular clearing (Vol 2’s monthly practice) is therefore not optional but necessary for sustained high spiritual power.**
 
-**Certainty: 70% ***The finite bandwidth observation is consistently supported by scripture and by the experience of extended spiritual ministry. The specific depletion mechanism and replenishment rates are open trails. The cost of maintaining emotional knots is my inference from Vol 2’s model, medium confidence.*
+**Certainty: Reasonably Inferred ***The finite bandwidth observation is consistently supported by scripture and by the experience of extended spiritual ministry. The specific depletion mechanism and replenishment rates are open trails. The cost of maintaining emotional knots is my inference from Vol 2’s model, medium confidence.*
 
 **OPEN TRAIL: ***Can spiritual energy depletion and replenishment rates be estimated from longitudinal data? What are the primary replenishment inputs and their relative magnitudes? This would be a significant contribution to spiritual formation literature.*
 

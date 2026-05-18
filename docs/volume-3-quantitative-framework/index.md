@@ -1,7 +1,7 @@
 ---
 title: "Volume 3: Quantitative Framework — Overview"
 volume: 3
-source: "IJH_Vol3_v5_5_7.docx"
+source: "IJH_Vol3_v5_6_1_1.docx"
 ---
 
 
@@ -27,4 +27,3 @@ Contents of Volume 3: Quantitative Framework. Each entry below opens that sectio
 - [Appendix: TFT Explained](appendix-tft-explained.md) — Appendix: TFT Explained
 - [Appendix: TFT Challenged](appendix-tft-challenged.md) — Appendix: TFT Challenged
 - [Appendix: Master Law Index](appendix-master-law-index.md) — Appendix: Master Law Index
-- [Claim Index](claim-index.md) — Claim Index

@@ -1,7 +1,7 @@
 ---
 title: "Second Exploration (B): The Adversary’s Role — Why the Knots Don’t Just Happen"
 volume: 2
-source: "IJH_Vol2_v5_5_7.docx"
+source: "IJH_Vol2_v5_6_1_1.docx"
 ---
 
 # Second Exploration (B): The Adversary’s Role — Why the Knots Don’t Just Happen
@@ -13,7 +13,7 @@ John Eldredge addresses this directly and carefully in Waking the Dead (2003), a
 
 ***1 Pet. 5:8 (ESV)***
 
-*“Be sober-minded; be watchful. Your adversary**, the devil,** prowls around like a roaring lion, seeking someone to devour.”*
+*“Be sober-minded; be watchful. Your adversary, the devil, prowls around like a roaring lion, seeking someone to devour.”*
 
 This is not a dramatic metaphor. It is a description of an active, intentional, personal adversary. The prowling is patient. The seeking is specific. A lion does not devour herds; it selects the vulnerable individual and separates him from the group before striking. That is a precise description of how spiritual attack operates, in my observation: it targets the isolatable, the already wounded, the one who has drifted from community.
 
@@ -43,8 +43,8 @@ Paul’s language is precise: the wrestling is real, and the opponent is not hum
 
 **Proposed Law (Diagnostic): Emotional and cognitive knots do not form in a neutral environment. The enemy of the soul targets moments of vulnerability to instill specific lies and then works through isolation, discouragement, and misdirection to keep those lies in place. The clearing work of Part II is therefore not purely psychological — it is a recovery of ground that is being actively contested. Spiritual warfare prayer, honest and specific, is a legitimate and often necessary component of the clearing process. Naming the adversary accurately neither reduces my responsibility for the work nor inflates the adversary’s power — it clarifies the actual nature of the contest so that the right resources can be brought to it.**
 
-Certainty: 80%. The scriptural case is clear, and I hold it with high confidence. The practical observation — that clearing work done with explicit spiritual warfare prayer is more durable — is consistent across my experience but has not been formally tested. The caution about the theatrical misuse of spiritual warfare framing is real, and I would rather err on the side of understatement here than give an excuse to blame an external agent for everything that is actually their own work.
+Certainty: Reasonably Inferred. The scriptural case is clear, and I hold it with high confidence. The practical observation — that clearing work done with explicit spiritual warfare prayer is more durable — is consistent across my experience but has not been formally tested. The caution about the theatrical misuse of spiritual warfare framing is real, and I would rather err on the side of understatement here than give an excuse to blame an external agent for everything that is actually their own work.
 
-**VOL 1 CONNECTION: **The adversary’s strategy — targeting the hearing channel — maps directly onto the Vol 1 Word → Hearing → Faith operational law (Vol 1, Exp. 1). Mark 4:15 makes this explicit: when they hear, Satan immediately comes and takes away the word that is sown in them. The adversary is not passive in the Sower parable. He is active at the point of reception.
+**VOL 1 CONNECTION: **The adversary’s strategy — targeting the hearing channel — maps directly onto the Vol 1 Word → Hearing → Faith operational law (Vol 1, Exp. 1). Mark 4:15 makes this explicit: when they hear, Satan immediately comes and takes away the word that is sown in them. The adversary is not passive in the Sower parable. He is active at the point of reception. The adversary’s lies also operate on V1.FL.III (Heart-Throne): the lie installed at the moment of vulnerability is rarely a free-standing falsehood. It is a promise — this will give you what you need, this will keep you safe, this will make you valuable. That is the structure of idolatry, and naming the lie’s implicit proposed throne-occupant is part of how the lie is undone.
 
-**Vol 2 — Exploration 3 — Operational Law**
+*Vol 2 — Exploration 2C — Diagnostic Law*

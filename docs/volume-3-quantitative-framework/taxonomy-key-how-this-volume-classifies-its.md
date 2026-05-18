@@ -1,7 +1,7 @@
 ---
 title: "Taxonomy Key: How This Volume Classifies Its Explorations"
 volume: 3
-source: "IJH_Vol3_v5_5_7.docx"
+source: "IJH_Vol3_v5_6_1_1.docx"
 ---
 
 # Taxonomy Key: How This Volume Classifies Its Explorations
@@ -28,6 +28,8 @@ The three-volume taxonomy now forms a complete arc. Vol 1 mapped the territory (
 **VOL 1 CONNECTION****:  ***The** entire Vol 3 quantitative project rests on Vol 1’s foundational laws as its empirical data set. Every equation proposed in Vol 3 is an attempt to formalize a relationship first identified qualitatively in Vol 1. The Trust Stock model (Vol 1, Exp. 1), the nested person structure (Vol 1, Exp. 2), the Authority force-multiplier (Vol 1, Exp. 7), and the Prayer Resonance model (Vol 1, Exp. 8) are the four primary inputs to Vol 3’s spiritual force equation.*
 
 **VOL 2 CONNECTION****:  ***Vol** 2’s Affective Taxonomy formal map (Vol 2, Exp. 7) and Community as Amplifier law (Vol 2, Exp. 9) are the two most important Vol 2 contributions to the Vol 3 quantitative framework. The Affective Taxonomy becomes the measurement protocol for spiritual distance. The **Community Amplification law becomes the third primary feedback loop in the systems dynamics model. Vol 2’s emotional knot model (Vol 2, Exp. 2) is formalized in Vol 3 as local **minima** in the potential energy landscape of TFT’s transcendental manifold.*
+
+*Three claims in Vol 2 have direct bearing on this Vol 3 formalization. V2.Exp2C (Standing Interior Agreements) names the upstream binding agent that produces and re-produces the local-minima configurations: an agreement is operationally distinct from a knot — a knot is what the participant is carrying; an agreement is what the participant has committed to carrying — and the Vol 3 formalization of knots as local minima may need a companion formalization of standing agreements as the binding that locks the configuration into a particular minimum across multiple knot-types. V**2.Exp**6 has been refined to a three-dimensional Tool Map (blockage-type / access-mode / governing-axis), which gives Vol 3 a richer structural target than the one-dimensional blockage-type list it has been mapping the local-minima topology against. V**2.Exp**6C (Discernment-from-Outside-the-Frame Law) names a structural law that operates across multiple altitudes of corpus practice and is a natural sibling to Vol 3's configuration-space discernment work.*
 
 **The Formation Documents and the Quantitative Program**
 
