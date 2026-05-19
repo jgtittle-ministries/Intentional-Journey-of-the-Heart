@@ -4,9 +4,9 @@ volume: 2
 source: "IJH_Vol2_v5_6_1_1.docx"
 ---
 
-# Exploration O: The Christian Companion's Framework — Tool Import Discipline
+# Exploration 0: The Christian Companion's Framework — Tool Import Discipline
 
-## Why an Exploration O
+## Why an Exploration 0
 Many tools in this volume came from somewhere outside the Christian formation tradition before it entered our practice. The Grief Recovery Handbook came from secular grief work. TPM came from a particular evangelical lineage that had its own assumptions. Voice Dialogue came from depth psychology. Psychodrama came from Moreno. The Bilgere carpet-work recipe came from Mindell's Process-Oriented Psychology, which came from Jungian analytics. The 7×7 mortality contemplation came from existential-philosophy lineages with no Christian commitments at all. PROAPT was the closest to a native-Christian tool, and even it borrowed structural moves from Ignatian and Benedictine reading practice.
 
 This is not a problem unless it is treated as one and then ignored. The problem is the opposite — pretending that any of these tools is a neutral instrument, an empty pipe through which Christian content can be poured without the pipe shaping what flows through it. The pipe has a shape. The shape was set by people who answered the questions "What is a person? What is wrong with us? What heals us? Whose work is it?" in particular ways. Those answers ride along with the tool, often invisibly, and they shape what the participant absorbs from experiencing the tool, even when the surface content is impeccably Christian.
