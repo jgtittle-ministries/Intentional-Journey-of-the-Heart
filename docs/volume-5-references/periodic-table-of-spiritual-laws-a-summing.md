@@ -296,11 +296,15 @@ Each non-resolved entry from the table above appears below in Period/Group order
 
 **P0/GI · V1.Open — Miracle Frame (Natural ⊂ Spiritual) (V), Reasonably Inferred** *(relocated from P5/GI)*
 
+*Attributes: Layer Substrate · Scale-range 1 – eschatological · Operator C+P*
+
 The natural order is a sub-structure within the spiritual order — the spiritual permeates the natural rather than the spiritual operating as an occasional interruption of an autonomous natural. The architectural relationship operates scale-invariantly: at the individual scale (the individual's encounter with the spiritual-permeated material world); at the dyadic-and-community scale (the gathered body's encounter); at the generational scale (the cumulative history of God's people's encounter); at the cosmic-eschatological scale (the consummation's full revelation of the spiritual-permeated character of all that is). The architectural character was previously held in placeholder form by the Vol 3 TFT Structural Law forward-reference, now absorbed into this entry.
 
 ***Mirror (orientation-neutral):*** *The Miracle Frame's architectural character does not carry orientation; the architectural relationship of the spiritual to the natural is structural rather than orientation-shaped.*
 
 **P0/GI · FL.XV (Foundational) — Hardening Law (V), Clearly Taught**
+
+*Attributes: Layer Substrate · Scale-range 1 – eschatological · Operator P*
 
 Sustained refusal of God-ward orientation progressively reduces the heart's responsiveness to truth, eventually closing the channel (Heb. 3:7–15; Prov. 29:1). Asymmetric in time and operating without conscious recognition by the participant in the middle of it. Scale-invariant; operates at individual, community, and generational scales. Pairs with V1.Exp6 Obedience Channel as a wider law in the same family.
 
@@ -308,11 +312,15 @@ Sustained refusal of God-ward orientation progressively reduces the heart's resp
 
 **P0/GI · FL.XL (Foundational) — Abiding-Fruitfulness Law (V), Clearly Taught (Band 1)**
 
+*Attributes: Layer Substrate · Scale-range 1 – eschatological · Operator C+P*
+
 Continuous abiding in Christ operates as the substrate condition for fruit-bearing — the branch operationally connected to the vine bears fruit as the structural consequence of the continuous connection, and the branch operationally severed from the vine bears no fruit regardless of the branch's own effort, with the operation occurring through the sap of the vine reaching the branches rather than through the branches' independent productivity. The substrate is bidirectional (the participant's abiding in Christ and Christ's abiding in the participant operate together as a mutual indwelling) and operates scale-invariantly across individual, dyadic, community, generational, and cosmic-eschatological scales by the same mechanism. Seven-or-more-biblical-author cross-Testament support: John in gospel and epistles (John 15:1–8 as the canonical articulation); Paul across Galatians (Gal. 5:22–23), Romans (Rom. 7:4), Colossians (Col. 1:6, 10), Ephesians (Eph. 5:8–11); Peter at 2 Pet. 1:5–9; the Synoptic writers at the fig-tree miracle (Mark 11:12–25; Matt. 21:18–22) and the Baptist's preparatory preaching (Matt. 3:8–10; Luke 3:8–9); the Psalmist at Ps. 1:1–3; Jeremiah at Jer. 17:7–8; Hosea at Hos. 14:8. Closes the P0/GI positive-substrate gap the catalog had been carrying — the cell previously held only V1.Open Miracle Frame (Christological-condition substrate) and FL.XV Hardening (failure-substrate); FL.XL admits the catalog's first positive participant-with-Christ-as-vine Spirit-substrate. Operator C+P — Christ as the vine is the operator of the sap; the participant's role is the branch's role, abiding rather than independently producing.
 
 ***Mirror (constitutive bidirectional):*** *The two faces are scripturally articulated together in John 15:5–6 — the abiding branch that bears much fruit and the non-abiding branch that withers and is gathered for burning. The Synoptic fig-tree miracle (Mark 11:12–25; Matt. 21:18–22) operationally enacts the non-abiding face — withering from the roots names the substrate-failure location. The form-without-substance failure mode (2 Tim. 3:5's "having the appearance of godliness, but denying its power") names the broader contemporary expression. Recovery requires the abiding's restoration through the catalog's formation mechanisms: FL.VIII Desire-for-God; V1.Exp1 Faith-Hearing Generation (Christ's words abiding in the believer per John 15:7); FL.VI Hear-and-Obey in iterative operation; FL.XXX Communal Soul-Care; FL.XXXII Communal Worship Heart-Alignment.*
 
 **P0/GI · FL.XLII (Foundational) — Kingdom-Confrontation Authority Law (V), Clearly Taught (Band 1)**
+
+*Attributes: Layer Substrate · Scale-range 1 – eschatological · Operator C+P*
 
 The operational presence of Christ — and, by derivative authorization, of believers operating in His name through union with Him — compels recognition from competing kingdom-powers, with the recognition issuing in either capitulation (the demonic acknowledgment-and-submission the Gospel exorcisms enact) or active counter-organization (the principalities' structured opposition the apostolic mission encounters). The recognition is structurally non-optional even where the response is, with the response-form depending on the rival-power's operational position rather than on the participant's confrontation-skill. Seven-or-more-biblical-author cross-Testament support: the Synoptic exorcism corpus (Mark 1:23–26; Mark 5:1–20; Mark 9:14–29; Syrophoenician daughter); Luke at Luke 10:17–20 (derivative authorization) and Acts 16:16–18 and Acts 19:13–16 (apostolic mission narratives); James at Jas. 2:19; Paul across Col. 2:15, Eph. 6:10–12, Phil. 2:9–11, 2 Cor. 10:3–5; the Hebrews writer at Heb. 2:14–15; John at 1 John 3:8 and Rev. 12:7–11; the Psalmist at Ps. 110:1. Operator C+P. The V directionality tag is extended to cover Christ's authority-vector toward rival powers.
 
@@ -320,11 +328,15 @@ The operational presence of Christ — and, by derivative authorization, of beli
 
 **P0/GI · FL.XLIV (Foundational) — Sign-as-Revelation Law (V), Clearly Taught (Band 2)**
 
+*Attributes: Layer Substrate · Scale-range 1 – eschatological · Operator C*
+
 Christ's physical-domain operations operate sacramentally as disclosures of corresponding spiritual-domain realities — the sign discloses its signified by being its operational embodiment in the physical-domain rather than by being a separately-attached illustration or evidentiary proof. The disclosure is available to the recipient whose interior posture receives the sign as sign rather than as spectacle; the same sign produces operationally opposite consequences in the receiving-as-sign and the receiving-as-spectacle receivers. Six-or-more-biblical-author cross-Testament support: John (the gospel's seven-signs structure and the related discourses); the Synoptic writers at the sign-on-demand refusal pericopes (Matt. 12:38–42; Matt. 16:1–4; Mark 8:11–13); the Hebrews writer at Heb. 2:3–4; Luke in Acts; Paul across Romans, 2 Corinthians, 1 Corinthians; Isaiah and the Mosaic OT background. Operator C. Band 2 articulation — operational pathway scripturally specified at the Johannine sēmeia-reception structure. Coexists with V1.Open Miracle Frame at P0/GI as the specific-operational-law-within-the-broader-architectural-territory pair.
 
 ***Mirror (statement form):*** *The Sign-as-Revelation Law's idol-ward face is the sign-as-spectacle reception — the recipient who sees the physical operation without the disclosure. The contemporary expression operates wherever the search for miraculous-evidentiary-proof operates as substitute substrate for receptive-faith. The catalog's other entries hold related operational expressions: FL.XV Hardening Law names the broader substrate of sustained sign-rejection's operational consequence; FL.XIII Pure-Heart Vision Law names the Gateway condition for the receiving-as-sign posture's operational availability.*
 
 **P0/GII · FL.XXXV (Foundational) — Trust-Substrate Law (V), Clearly Taught (Band 1)**
+
+*Attributes: Layer Substrate · Scale-range 1 – eschatological · Operator P*
 
 The heart's experienced trust in God's reliable character and faithful presence operates as the substrate condition under which the obedience-of-faith operations become structurally available in their God-ward form; absent the substrate, the same scriptural address is received but the operations substitute either performance-as-obedience (the anxious-approach pattern) or self-protection-as-prudence (the avoidant pattern), with the substitution operationally observable in the action's fruit. The substrate operates scale-invariantly across individual, dyadic, community, generational, and cosmic-eschatological scales by the same mechanism. Eight-or-more-biblical-author cross-Testament support: Solomon (Prov. 3:5–6); Isaiah (Isa. 30:15; 26:3–4); the Psalmists (Ps. 9:10; 37:3–5; 56:3–4; 91:1–2); Jeremiah (Jer. 17:5–8); Habakkuk (Hab. 2:4); Gospel writers (Mark 9:23–24; Matt. 6:25–34; John 14:1); Paul (Rom. 4:20–21; Phil. 4:6–7; 2 Tim. 1:7); the Hebrews writer (Heb. 11:6 and the entire Heb. 11 chapter); Peter (1 Pet. 5:6–7); John (1 John 4:18).
 
@@ -332,11 +344,15 @@ The heart's experienced trust in God's reliable character and faithful presence 
 
 **P0/GII · FL.XXXVII (Foundational) — Worship Alignment Law (V), Clearly Taught** *(promoted from Speculative ◆ and relocated from P5/GII)*
 
+*Attributes: Layer Substrate · Scale-range 1 – eschatological · Operator P*
+
 Sustained worship of an Object operates as the heart's perceptual-recalibration substrate, with the worshiper's perception of all things gradually re-formed in accordance with the worshiped Object's nature and character; sustained worship of the true God produces perception conformed to God's character (the world becomes visible as God's good creation, the neighbor becomes visible as God's image-bearer, the self becomes visible as God's creature-and-servant); sustained worship of substitute Objects produces perception conformed to the substitutes' character (the world becomes visible through the substitute's frame, the neighbor becomes visible as instrumental-or-obstructive to the substitute's pursuit, the self becomes visible through the substitute's identity-economy). The substrate operates scale-invariantly across individual worship (private prayer, personal devotion), gathered worship (corporate liturgy, congregational singing, sacramental practice), inherited worship (traditional practices transmitted across generations), and eschatological worship (the consummation's marriage supper of the Lamb). Multi-author cross-Testament scriptural support: Moses (Ex. 20:3–6; Deut. 4:15–24); the Psalmists (Ps. 95; Ps. 96; Ps. 100; Ps. 115); Isaiah (Isa. 44:9–20; Isa. 6:1–5); John (John 4:23–24; Rev. 4–5; Rev. 7:9–17); Paul (Rom. 1:21–25; Rom. 12:1–2; Col. 3:1–4; Phil. 3:3); the Hebrews writer (Heb. 12:28–29); Peter (1 Pet. 2:9–10). The promotion-and-relocation outcome of the Q4 examination produces the catalog's first two-Foundational-Laws-at-one-cell pattern at Period 0, with the present law operating in mutual reinforcement with FL.XXXV Trust-Substrate Law at the heart-substrate dimension.
 
 ***Mirror (statement form):*** *The Worship Alignment Law's idol-ward face operates wherever the heart's sustained worship is directed toward a substitute Object — the self (self-worship as the foundational idol-ward worship form); another human person (idolatry of relationship); material accumulation (mammon-worship at Matt. 6:24); institutional or cultural participations operating as substitute identity-anchors; political-or-social allegiances operating as functional ultimate concerns. Rom. 1:21–25 names the canonical scriptural articulation of the worship-substitution dynamic and its operational consequence ("they exchanged the truth of God for a lie, and worshiped and served the creature rather than the Creator"). Isa. 44:9–20 names the operational futility of substitute-Object worship through the parodic narrative of the idol-maker. Recovery requires substrate restoration through restored worship of God as the worshiped Object, with the catalog's formation mechanisms (sustained scripture-engagement, sustained prayer, sustained sacramental practice, sustained corporate worship) operating as the operational form of the recovery.*
 
 **P0/GIII · FL.XXXVIII (Foundational) — The Soul-Restoration Law (V), Clearly Taught (Band 1)**
+
+*Attributes: Layer Substrate · Scale-range 1 – eschatological · Operator C+P*
 
 The soul — the integrative center of the person holding the dimensions in unified operation — operates under God's sustained restorative activity, with the restoration's depth conditioning the soul's operational coherence at all scales of the person's life; the restoration is not a one-time event but a sustained operation by which God reaches the soul where it has been disordered, fragmented, exhausted, embittered, or otherwise compromised, and re-integrates its dimensions toward unified operation; the participant cooperates with the restoration through the catalog's formation mechanisms (sustained scripture-engagement, sustained prayer, sustained sacramental practice, sustained corporate worship, sustained obedience), but the restorative work itself is God's operation upon the soul rather than the participant's operation upon herself. The substrate operates scale-invariantly across the individual soul (the participant's interior integration), the dyadic soul (the marriage soul or the close-friendship soul as the small-relational-unit soul-integration), the corporate soul (the gathered body's one-soul striving together at Phil. 1:27, the city's soul, the people's soul), the generational soul (the inherited soul-formation across generations), and the eschatological soul (the people-of-God's soul oriented toward consummation). Eight-or-more-biblical-author cross-Testament support: David at Ps. 23 ("he restores my soul"); Asaph at Ps. 73:21–28 (the soul restored after embitterment); Jeremiah at Lam. 3:19–26 (the soul restored through remembrance of steadfast love); Isaiah at Isa. 57:15–19 ("I will restore comfort to him and to his mourners"); Jeremiah at Jer. 31:25 ("for I will satisfy the weary soul, and every languishing soul I will replenish"); Matthew at Matt. 11:28–30 ("I will give you rest... you will find rest for your souls"); the Lukan writer at Acts 3:19–21 ("times of refreshing may come from the presence of the Lord, and that he may send the Christ appointed for you"); Paul at 2 Cor. 4:16 ("our inner self is being renewed day by day"); the Hebrews writer at Heb. 12:12–13 (the encouragement to lift drooping hands and strengthen weak knees as part of soul restoration); Peter at 1 Pet. 5:10 ("the God of all grace... will himself restore, confirm, strengthen, and establish you"); John at Rev. 7:17 and Rev. 21:4 (the eschatological consummation of soul restoration with all tears wiped away). The admission closes the P0/GIII (Soul) cell of the Period 0 row, completing the inner-Group substrate articulation across Spirit, Heart, and Soul at the scale-invariant scale.
 
@@ -344,11 +360,15 @@ The soul — the integrative center of the person holding the dimensions in unif
 
 **P0/GV · FL.VI (Foundational) — Hear-and-Obey Blessing Law (V), Clearly Taught**
 
+*Attributes: Layer Substrate · Scale-range 1 – eschatological · Operator P*
+
 Hearing the word of God and doing it produces blessedness and flourishing; hearing without doing forfeits the blessing. Scale-invariant.
 
 ***Mirror:*** *FL.XVI Bondage Law at P0/GV is the structural counterpart of FL.VI in the same scale-invariant location: the same obedience-constitutes-state mechanism viewed from the other direction of pursuit.*
 
 **P0/GV · FL.IX (Foundational) — Generosity-Provision Law (B), Clearly Taught**
+
+*Attributes: Layer Substrate · Scale-range 1 – eschatological · Operator P*
 
 Generous giving evokes provision toward the giver; withholding evokes the inverse. Scale-invariant. The law articulates the **proportional return regime** that operates as the substrate-level proportionality dynamic for giving-and-receiving at all scales — generous giving evokes proportional provision, withholding evokes proportional withholding, with the proportionality operating consistently across the scale-invariant placement. The proportional-return regime is structurally distinct from the **disproportionate-return regime** that operates when the offering is placed into Christ's operational possession specifically; the disproportionate regime is held within the catalog by the FL.XXXIX Surrender-Multiplication candidate (P0/GV, C+P, Substrate, awaiting formal admission in the miracle-derived expansion pass), which articulates the surrender-conditioned multiplication that the gospel feedings (Matt. 14:13–21; Mark 6:30–44; Luke 9:10–17; John 6:1–14) operationally enact. FL.IX and the FL.XXXIX-candidate operate sequentially in the economy: FL.IX articulates the substrate-level proportionality that the entire economy operates within; FL.XXXIX (when admitted) articulates the kingdom-signs regime that operates as Christ's distinguishing operational mode wherever the small offering is yielded to Him.
 
@@ -356,11 +376,15 @@ Generous giving evokes provision toward the giver; withholding evokes the invers
 
 **P0/GV · FL.XVI (Foundational) — Bondage Law (B), Clearly Taught**
 
+*Attributes: Layer Substrate · Scale-range 1 – eschatological · Operator P*
+
 Sustained obedience to sin constitutes the obeyer as the slave of sin (Rom. 6:16; John 8:34; 2 Pet. 2:19). Scale-invariant.
 
 ***Mirror:*** *FL.VI Hear-and-Obey Blessing is the God-ward face of FL.XVI's idol-ward bondage.*
 
 **P0/GV · FL.XXXIX (Foundational) — Surrender-Multiplication Law (V), Clearly Taught (Band 1)**
+
+*Attributes: Layer Substrate · Scale-range 1 – eschatological · Operator C+P*
 
 What is yielded into Christ's hands operates by a return-mechanism that exceeds proportional scaling — the small offering surrendered to Christ produces operational consequences disproportionate to the offering's native magnitude. Absent the yielding, the same substance operates within FL.IX Generosity-Provision's proportional return-regime; the shift from proportional to disproportionate is conditioned on the surrender into Christ's operational possession. Seven-or-more-biblical-author cross-Testament support: the four gospel writers (Matt. 14:13–21; Mark 6:30–44; Luke 9:10–17; John 6:1–14 — five-thousand feeding; Matt. 15:32–39; Mark 8:1–10 — four-thousand feeding; Matt. 17:24–27 — coin-in-fish; Luke 5:1–11; John 21:1–14 — miraculous catches); the Kings writer (1 Kgs. 17:8–16 widow of Zarephath; 2 Kgs. 4:1–7 Elisha-widow oil); Paul at 2 Cor. 9:8–11 and Phil. 4:19. Operator C+P. Distinct from FL.IX's proportional-return regime; the two laws operate sequentially in the operational economy.
 
@@ -368,11 +392,15 @@ What is yielded into Christ's hands operates by a return-mechanism that exceeds 
 
 **P0/GVI · FL.I (Foundational) — Sowing-and-Reaping Law (B), Clearly Taught**
 
+*Attributes: Layer Substrate · Scale-range 1 – eschatological · Operator P*
+
 What a person, community, or generation sows, that unit reaps — in kind, in degree, and in proportion to the sowing. Scale-invariant. Anchor entry for the Period 0 row. The proportionality-of-cause-and-effect dynamic the entry names is part of the broader Period 0 row's proportionality articulation, with FL.IX (generosity-proportionality), FL.VI/FL.XVI (obedience-bondage proportionality), FL.XV (refusal-hardening proportionality), and FL.XXXV (trust-substrate depth proportionality) holding the related-dimension articulations across the row. The Vol 3 Spiritual Force Equation forward-reference is absorbed into this articulation; see the Period 0 Row's Proportionality Pattern structural-observation sub-section.
 
 ***Mirror:*** *Sowing to the Spirit (Gal. 6:8b) reaps eternal life; sowing to the flesh (Gal. 6:8a) reaps corruption. Same mechanism, two directions of pursuit, two characteristic outputs.*
 
 **P0/GVI · FL.XXIII (Foundational) — Sabbath Rest Law (V), Clearly Taught (Band 3)**
+
+*Attributes: Layer Substrate · Scale-range 1 – generation · Operator P*
 
 The rhythm of work and structured cessation in trust-of-provision operates as the eternal-pattern architectural framework for human formation; the cessation is not merely refraining from work but is positive engagement in the rest's substance (worship, communion, delight in creation, family-and-community presence), with the trust-in-provision as the operational substrate that makes the cessation operationally possible. The Band 3 articulation holds the principle on its scale-invariant scriptural footing while leaving the specific operational form (the day, the duration, the practices) to tradition-by-tradition theological work. Multi-author cross-Testament scriptural support: Moses (Gen. 2:1–3 creation rhythm; Ex. 20:8–11 fourth commandment; Ex. 31:12–17 covenant sign; Lev. 25 sabbatical-and-jubilee years); the Chronicler (2 Chron. 36:21 exile as land's rest); the Psalmist (Ps. 92 sabbath song); Jesus (Mark 2:23–3:6 sabbath made for man; Matt. 11:28–30 rest invitation; Luke 4:16 synagogue practice); Paul (Rom. 14:5–6 day-keeping; Col. 2:16–17 sabbaths as shadow of Christ); the Hebrews writer (Heb. 4:1–11 sabbath rest remains for the people of God).
 
@@ -380,11 +408,15 @@ The rhythm of work and structured cessation in trust-of-provision operates as th
 
 **P0/GVI · FL.XLI (Foundational) — Defilement-Cleansing Reversal Law (V), Clearly Taught (Band 1)**
 
+*Attributes: Layer Substrate · Scale-range 1 – eschatological · Operator C*
+
 Under Christ's operational presence, the polarity of ceremonial contagion is structurally reversed — Christ's contact with the unclean produces cleanness in the formerly-unclean rather than uncleanness in Christ — with the reversed polarity operating as the substrate condition within which the New Covenant's sanctifying operations (baptismal cleansing, Eucharistic communion, the priestly-people's ministration to the defiled) are operationally available. The reversal is conditioned on Christ's specific operational presence rather than on any participant-condition; the participant's role is reception. Eight-or-more-biblical-author cross-Testament support: the Synoptic cleansing-of-the-leper pericopes (Matt. 8:1–4; Mark 1:40–45; Luke 5:12–16); the Markan-and-Lukan double miracle (Mark 5:21–43; Luke 8:40–56); the Lukan widow-of-Nain (Luke 7:11–17); the Johannine foot-washing (John 13:1–11); Paul at 2 Cor. 5:21, Eph. 5:25–27, Titus 3:5, 1 Cor. 6:9–11; the Hebrews writer at Heb. 7:26 and Heb. 9:13–14; John in 1 John 1:7; Isaiah at Isa. 53:4–5. Operator C — the catalog's first pure-C-tier Operator Foundational Law explicitly admitted.
 
 ***Mirror (Christological-condition):*** *The law's mechanism is not orientation-determined in the participant; it is conditioned on Christ's operational presence as the structural reverser. The participant's role is reception. The failure mode is non-reception of the reversed-polarity offer: self-cleansing substitute (Mark 7:1–13 Pharisaic-cleansing pattern); despair-of-cleansing (Heb. 10:38 shrinking-back); substitute-mediator (mediator-economy parallel to Christ); indifference (non-engagement). Recovery requires re-orientation to Christ's offered operation as the cleansing-substrate.*
 
 **P0/GVI · FL.XLIII (Foundational) — Cross-Boundary Faith-Access Law (V), Clearly Taught (Band 1)**
+
+*Attributes: Layer Substrate · Scale-range 1 – eschatological · Operator P*
 
 Recognized faith operates as the access criterion to covenant benefits independently of the would-be recipient's standing within the covenant's institutional perimeter — the perimeter is structurally porous to the outsider whose faith Christ recognizes, with the recognized faith reorganizing the covenant's operational extension to include the recognized-believer regardless of perimeter-formal-membership. Absent the recognized faith, perimeter-membership produces no operational covenant-access (Matt. 8:11–12). Eight-or-more-biblical-author cross-Testament support: the Synoptic gospel writers at the cross-boundary healing pericopes (centurion's servant; Syrophoenician daughter; Samaritan leper); John at John 4:1–42; Luke at Luke 4:25–27, Acts 10–11, Acts 15; Paul across Rom. 4, Gal. 3:7–14 and 3:26–29, Eph. 2:11–22; the Kings writer at 1 Kgs. 17:8–24 and 2 Kgs. 5; the Hebrews writer at Heb. 11:31; James at Jas. 2:25; the Ruth narrative. Operator P (with Christ's recognition-feature). The cleanest qualifier among the seven miracle-derived candidates — clears all four inclusion criteria without structural stress on the catalog.
 
@@ -394,11 +426,15 @@ Recognized faith operates as the access criterion to covenant benefits independe
 
 **P1/GI · V1.Exp5 (Gateway) — Fear of the Lord (V), Clearly Taught**
 
+*Attributes: Layer Substrate · Scale-range 1 – eschatological · Operator P*
+
 Logically prior entry condition for the entire Wisdom cluster. The entry's Gateway designation is part of the catalog's broader threshold/gateway pattern, with V2.Exp7 (Affective Level 2→3 transition), FL.XIII (Pure-Heart Vision Gateway), FL.XV (the hardening threshold), and the implicit regeneration threshold holding the related pattern instances. The Vol 3 Miracle Threshold Events forward-reference is absorbed into this articulation; see the Threshold/Gateway Pattern structural-observation sub-section.
 
 ***Mirror:*** *"Fools despise wisdom and instruction" (Prov. 1:7b). The orientation reading: fear of the Lord vs. fear of man (Prov. 29:25; Isa. 8:12–13).*
 
 **P1/GI · FL.VII (Foundational) — Drawing-Near Reciprocity Law (V), Clearly Taught**
+
+*Attributes: Layer Operation · Scale-range 1 – 120 · Operator P*
 
 Active movement toward God evokes God's movement toward the person; turning away evokes withdrawal. Canonical example of reciprocity-of-response. The entry's nearness-and-distance reciprocity is part of the catalog's broader nearness-or-distance articulation, with FL.XV Hardening (the moving-away substrate at scale-invariant), FL.XXXV Trust-Substrate (the trust-substrate's depth as nearness's heart-face), and FL.XIII Pure-Heart Vision (the purity condition for vision as the heart-orientation face of nearness) holding the related-dimension articulations across multiple Groups and scales. The Vol 3 Spiritual Distance Metric forward-reference is absorbed into this articulation; see the Cross-Group, Cross-Scale Nearness-or-Distance Articulation structural-observation sub-section.
 
@@ -406,11 +442,15 @@ Active movement toward God evokes God's movement toward the person; turning away
 
 **P1/GI · FL.X (Foundational) — Ask-Seek-Knock Law (V), Clearly Taught**
 
+*Attributes: Layer Operation · Scale-range 1 – 70 · Operator P*
+
 Persistent, faith-filled asking in alignment with God's character produces receiving; asking from wrong motive does not. Threshold form of the prayer mechanism.
 
 ***Mirror:*** *Asking from wrong motive (Jas. 4:3) is the idol-ward face the law itself names.*
 
 **P1/GII · V1.Exp1 — Faith Generation (Hearing Chain) (V), Reasonably Inferred**
+
+*Attributes: Layer Operation · Scale-range 1 – community · Operator P+S*
 
 Word → Hearing → Faith; willingness to obey activates the chain; disobedience degrades it.
 
@@ -418,11 +458,15 @@ Word → Hearing → Faith; willingness to obey activates the chain; disobedienc
 
 **P1/GII · V1.Exp3 — Faith-Hope-Love Triad (V), Reasonably Inferred**
 
+*Attributes: Layer Substrate · Scale-range 1 – eschatological · Operator P*
+
 Self-reinforcing triad: Faith generates Hope; Hope enables Love; Love deepens Faith.
 
 ***Mirror:*** *Misplaced trust corrupts hope; corrupted hope deforms love; deformed love undermines further trust. Jer. 17:5–8 names both directions in a single oracle.*
 
 **P1/GII · FL.III (Foundational) — Heart-Throne Law (B), Clearly Taught**
+
+*Attributes: Layer Substrate · Scale-range 1 – eschatological · Operator P*
 
 Whatever the heart looks to as its primary source of security, meaning, or identity functions as its functional savior. Pairs with FL.II Confession-Restoration at the sin-clearance altitude.
 
@@ -430,11 +474,15 @@ Whatever the heart looks to as its primary source of security, meaning, or ident
 
 **P1/GII · FL.VIII (Foundational) — Desire-for-God Law (V), Clearly Taught**
 
+*Attributes: Layer Substrate · Scale-range 1 · Operator P*
+
 The human heart, made for God, generates a longing for Him as a structural feature of its design.
 
 ***Mirror (constitutive):*** *FL.VIII's idol-ward face is named in full by FL.XIV Vanity-of-Substitutes Law.*
 
 **P1/GII · FL.XIV (Foundational) — Vanity-of-Substitutes Law (V), Clearly Taught**
+
+*Attributes: Layer Substrate · Scale-range 1 – eschatological · Operator P*
 
 Every substitutional attempt to fill the FL.VIII Desire-for-God longing with an Object other than God fails structurally (Eccl. 1:2, 2:1–11; Jer. 2:13; Rom. 1:21–25; John 4:13–14).
 
@@ -442,11 +490,15 @@ Every substitutional attempt to fill the FL.VIII Desire-for-God longing with an 
 
 **P1/GII · FL.XIII (Foundational) — Pure-Heart Vision Law (V), Clearly Taught**
 
+*Attributes: Layer Substrate · Scale-range 1 · Operator P*
+
 Purity of heart is the prior condition for the seeing of God. Second Gateway-type entry.
 
 ***Mirror (constitutive):*** *Pure heart = single-Object orientation toward God; impure heart = divided pursuit (Jas. 4:8 "purify your hearts, you double-minded").*
 
 **P1/GII · V2.Exp1 — Heart Soil Diagnostic (I), Clearly Taught** *(relocated from P3/GV in)*
+
+*Attributes: Layer Substrate · Scale-range 1 · Operator P*
 
 The parable of the sower (Matt. 13) names four characteristic states of heart-soil — the path, the rocky ground, the thorny ground, the good soil — with diagnostic features that identify the participant's current state and the specific formation work each state needs. Relocated to P1/GII in: the previous placement at P3/GV (Community / Body & Action) was inconsistent with the law's content; the diagnostic is structurally a heart-level diagnostic at the individual scale, with the parable naming heart-states of the individual hearing the word.
 
@@ -454,11 +506,15 @@ The parable of the sower (Matt. 13) names four characteristic states of heart-so
 
 **P1/GIII · SST Stage 1 — Soul Disorder Awareness (I), Reasonably Inferred ◆**
 
+*Attributes: deferred (Speculative ◆)*
+
 Recognition of interior fragmentation as precondition for clearing.
 
 ***Mirror:*** *Denial and self-justification calcify the disorder rather than resolving it (1 John 1:8; Jer. 17:9).*
 
 **P1/GIII · FL.IV (Foundational) — Humility-Exaltation Law (V), Clearly Taught**
+
+*Attributes: Layer Operation · Scale-range 1 – 12 · Operator P*
 
 Self-humbling before God leads to being exalted in due time; self-exaltation leads to being brought low. Bidirectional in source texts.
 
@@ -466,11 +522,15 @@ Self-humbling before God leads to being exalted in due time; self-exaltation lea
 
 **P1/GIII · FL.XXII (Foundational) — Endurance-Hope Law (V), Clearly Taught**
 
+*Attributes: Layer Substrate · Scale-range 1 – eschatological · Operator P*
+
 Suffering endured in the right disposition produces character; character produces hope; hope does not put to shame because God's love has been poured into our hearts through the Holy Spirit (Rom. 5:3–5; James 1:2–4; 1 Pet. 1:6–7; Heb. 12:1–11). The four-biblical-author cross-Testament support establishes the law's Clearly Taught confidence tier. Operates as the individual-scale child of the Suffering-as-Formation Loop at P5/GIII (cosmic-scale parent, Reasonably Inferred); the parent-child relationship inverts the catalog's typical confidence-tier pattern (the cosmic-scale parent is Reasonably Inferred while the individual-scale child is Clearly Taught), with the inverted pattern accommodated by the catalog's structure without architectural change. See the Endurance-Hope and Suffering-as-Formation Parent-Child Relationship structural-observation sub-section.
 
 ***Mirror (constitutive bidirectional):*** *The same input (suffering) produces opposite outputs (formation under God-ward orientation; root of bitterness under idol-ward orientation), with the orientation as the operational pivot. Heb. 12:14–15 names both directions in a single passage (the pursuit-of-holiness producing formation; the root-of-bitterness producing community-defilement); the FL.XVIII Bitter-Root Community Law at P3/GV holds the community-scale operation of the idol-ward direction. The Endurance-Hope Law is an orientation-determined law in the structural sense the third-axis test established.*
 
 **P1/GIV · V1.Exp4 — Wisdom Cluster (K→U→W→D) (I), Reasonably Inferred**
+
+*Attributes: Layer Substrate · Scale-range 1 – community · Operator P+S*
 
 Knowledge → Understanding → Wisdom → Discernment; Fear of the Lord is the required gateway.
 
@@ -478,11 +538,15 @@ Knowledge → Understanding → Wisdom → Discernment; Fear of the Lord is the 
 
 **P1/GIV · FL.XI (Foundational) — Renewal-of-Mind Transformation Law (V), Clearly Taught**
 
+*Attributes: Layer Operation · Scale-range 1 · Operator S+P*
+
 Sustained renewal of the mind produces transformation; sustained conformity to the surrounding pattern produces deformation.
 
 ***Mirror:*** *Conformity to the pattern of the age (Rom. 12:2a) is the negative direction.*
 
 **P1/GV · V1.Exp6 — Obedience Channel (Revelation Flow) (V), Clearly Taught**
+
+*Attributes: Layer Substrate · Scale-range 1 – eschatological · Operator P*
 
 Obedience to prior revelation is the causal condition for subsequent revelation.
 
@@ -490,17 +554,23 @@ Obedience to prior revelation is the causal condition for subsequent revelation.
 
 **P1/GV · V1.Exp7 — Spiritual Authority (Force Multiplier) (B), Reasonably Inferred**
 
+*Attributes: Layer Substrate · Scale-range 1 – city · Operator C+P*
+
 Authority delegated hierarchically: Father → Son → believers; operating within delegated authority amplifies effective spiritual force.
 
 ***Mirror:*** *The idol-ward face is usurped authority — Korah's rebellion (Num. 16) names the canonical biblical pattern.*
 
 **P1/GV · FL.II (Foundational) — Confession-Restoration Law (V), Clearly Taught**
 
+*Attributes: Layer Operation · Scale-range 1 · Operator P*
+
 Honest, owned confession of sin restores fellowship and clears the channel.
 
 ***Mirror:*** *Concealment of sin is structurally an idol-ward operation. Prov. 28:13 names both directions in a single sentence.*
 
 **P1/GVI · V1.Exp2 — Nested Person Structure (I), Reasonably Inferred**
+
+*Attributes: Layer Substrate · Scale-range 1 · Operator P*
 
 Spirit ⊂ Heart; Heart, Mind, and Body ⊂ Soul; lasting change always works from inside out.
 
@@ -510,11 +580,15 @@ Spirit ⊂ Heart; Heart, Mind, and Body ⊂ Soul; lasting change always works fr
 
 **P2/GI · V1.Exp8 — Prayer Resonance (Waveform Model) (V), Reasonably Inferred**
 
+*Attributes: Layer Operation · Scale-range 1 – 120 · Operator P+S*
+
 Prayer as a resonance phenomenon between the praying soul and God.
 
 ***Mirror:*** *Prayer offered in the service of a competing Object does not produce resonance (Jas. 4:3). The Counter-Resonance Law at the same cell is the dyadic-scale operation of the same dynamic.*
 
 **P2/GI · Speculative — Prophetic Imagination (V), Speculative ◆**
+
+*Attributes: deferred (Speculative ◆)*
 
 The Spirit-anointed imagination as the canvas the Holy Spirit operates on for hearing-from-God.
 
@@ -522,11 +596,15 @@ The Spirit-anointed imagination as the canvas the Holy Spirit operates on for he
 
 **P2/GI · Speculative — Counter-Resonance Law (V), Speculative ◆**
 
+*Attributes: deferred (Speculative ◆)*
+
 Sustained prayer-time spent in the resonance of a non-God Object produces deformation in the direction of that Object.
 
 ***Mirror:*** *The God-ward face is V1.Exp8 Prayer Resonance at the same cell.*
 
 **P2/GII · V2.Exp7 — Hearing Development (5-Stage Affective) (V), Reasonably Inferred**
+
+*Attributes: Layer Substrate · Scale-range 1 · Operator P+S*
 
 Development of the capacity to hear from God moves through five affective stages.
 
@@ -534,11 +612,15 @@ Development of the capacity to hear from God moves through five affective stages
 
 **P2/GIII · V2.Exp2 — Emotional Knot Law (I), Clearly Taught**
 
+*Attributes: Layer Substrate · Scale-range 1 · Operator P*
+
 Sustained unresolved emotional knots produce somatic and behavioral consequence over time.
 
 ***Mirror (orientation-neutral):*** *The mechanism does not carry orientation.*
 
 **P2/GIII · V2.Exp6 — Tool-Application (Discernment Required) (I), Reasonably Inferred**
+
+*Attributes: Layer Operation · Scale-range 1 – 12 · Operator P*
 
 Specific formation tools must be matched to specific participant states.
 
@@ -546,11 +628,15 @@ Specific formation tools must be matched to specific participant states.
 
 **P2/GIV · V2.Exp3 — Cognitive Root of Knots (I), Reasonably Inferred**
 
+*Attributes: Layer Substrate · Scale-range 1 · Operator P*
+
 Emotional knots characteristically have a cognitive substrate.
 
 ***Mirror:*** *Frames with idol-ward content require dethroning-style work, not merely cognitive-reframing-style work.*
 
 **P2/GV · V2.Exp4 — Sin Blockage Law (Circuit Load) (V), Clearly Taught**
+
+*Attributes: Layer Substrate · Scale-range 1 – 12 · Operator P*
 
 Unresolved sin operates as a circuit load on the spiritual operational system, reducing throughput of prayer, hearing, and obedience until cleared.
 
@@ -558,11 +644,15 @@ Unresolved sin operates as a circuit load on the spiritual operational system, r
 
 **P2/GV · Forgiveness-Debt Transfer Law (B), Speculative ◆**
 
+*Attributes: deferred (Speculative ◆)*
+
 The act of forgiveness operates as a transfer of the offense's debt from the offended party to God (with the offender's debt remaining their own to settle with God).
 
 ***Mirror:*** *The idol-ward face is the offended party's retention of the debt with the offender as the operational debtor — the unforgiving-servant dynamic (Matt. 18:21–35).*
 
 **P2/GV · FL.V (Foundational) — Reciprocal Forgiveness Law (B), Clearly Taught**
+
+*Attributes: Layer Operation · Scale-range 2 – 70 · Operator P*
 
 The forgiving party's reception of God's forgiveness is operationally conditional on the forgiving party's forgiveness of others (Matt. 6:14–15; Mark 11:25–26; Matt. 18:21–35).
 
@@ -570,17 +660,23 @@ The forgiving party's reception of God's forgiveness is operationally conditiona
 
 **P2/GV · FL.XII (Foundational) — Honor-Authority Flourishing Law (B), Clearly Taught**
 
+*Attributes: Layer Operation · Scale-range 2 – city · Operator P*
+
 Honoring legitimate authority (parental, civil, ecclesial) produces flourishing for the honoring party; dishonor produces operational diminishment. Pairs with FL.XVI Bondage at the obedience-to-illegitimate-authority case.
 
 ***Mirror:*** *The idol-ward face is dishonor toward legitimate authority — the canonical scriptural articulation operates through the fifth commandment (Ex. 20:12; Eph. 6:1–3) and through the Pauline submission-to-governing-authorities passage (Rom. 13:1–7).*
 
 **P2/GVI · V2.Exp5 — Four Connects (Self → Others → God → Mission) (B), Reasonably Inferred**
 
+*Attributes: Layer Substrate · Scale-range 1 – eschatological · Operator P*
+
 Four directions of relational connection that the soul operates simultaneously.
 
 ***Mirror:*** *Disconnection in any of the four directions produces operational deformation in the soul; the four connects operate together as the soul's relational substrate.*
 
 **P2/GVI · FL.XXXIV (Foundational) — Marriage Covenant Architecture Law (V; Band 2), Clearly Taught**
+
+*Attributes: Layer Substrate · Scale-range 2 · Operator C+P*
 
 The marriage covenant — instituted at creation, ratified by Jesus's teaching, articulated by Paul as reflecting the Christ-and-Church relationship — operates as the architectural framework conditioning the operations within the marital dyad; the framework's scripturally-specified operational pathway is the leave-and-cleave-and-one-flesh pattern (Gen. 2:24 ratified by Matt. 19:5 and Eph. 5:31), with the operational features of covenant-monogamy between man and woman, exclusivity at the conjugal level, structural durability through divine joining-together (Matt. 19:6 "what therefore God has joined together"), openness to procreation and household formation operations (Gen. 1:28; Mal. 2:15), and eschatological reflective dimension grounding the dyadic-architectural arrangement in the Christ-and-Church cosmic-eschatological reality (Eph. 5:32). Seven-or-more-biblical-author cross-Testament support exceeding the catalog's minimum threshold: Genesis writer (Gen. 1:27–28; Gen. 2:18–25); Malachi (Mal. 2:13–16); Matthew and Mark (Matt. 19:3–9; Mark 10:2–12); Paul across multiple letters (Eph. 5:22–33; 1 Cor. 7; the broader Pauline corpus); Hebrews writer (Heb. 13:4); Peter (1 Pet. 3:1–7); wisdom writers (Prov. 5:15–19; 18:22; 31:10–31); Song of Songs poet; Hosea writer (Hosea 1–3); John in Revelation (Rev. 19:6–9; 21:1–11). Operational depth across creation, prophetic, gospel, apostolic, wisdom, narrative, and apocalyptic registers establishes canonical centrality. Band 2 articulation is structurally distinct from Band 3 (the marriage covenant's operational pathway is scripturally specified rather than tradition-arbitrated). The broader dyadic-pair-bond architectural territory beyond marriage (close-friendship covenant per Jonathan-David; discipleship dyad per Paul-Timothy, Elijah-Elisha, Naomi-Ruth; spiritual-direction pair per patristic and modern traditions) is held within the chapter as related architectural forms operating by structurally analogous principles within distinct operational scopes.
 
@@ -590,11 +686,15 @@ The marriage covenant — instituted at creation, ratified by Jesus's teaching, 
 
 **P3/GI · FL.XX (Foundational) — Gathered-Body Discernment Law (V), Clearly Taught**
 
+*Attributes: Layer Operation · Scale-range 3 – 120 · Operator S+P*
+
 The Spirit's distinctive speaking through the gathered body produces discernment unavailable to the same individuals operating apart from the gathered body. The Acts 15 Jerusalem Council names the canonical scriptural instance; the Pauline epistolary material's repeated invocations of the gathered body's role in discernment (1 Cor. 12; 1 Cor. 14:26–33; Eph. 4:11–16) establish operational scope.
 
 ***Mirror:*** *The idol-ward face is gathered-body corporate self-deception — the canonical NT articulation is the seven letters of Rev. 2–3 to the gathered bodies that had drifted from their first love or had received false teaching or had grown lukewarm, with the Spirit's address to those bodies operating as the corrective.*
 
 **P3/GII · V1.Exp1 — Faith-Hearing Generation (V), Reasonably Inferred** *(community-scale operation)*
+
+*Attributes: Layer Operation · Scale-range 3 – community · Operator P+S*
 
 The same Word → Hearing → Faith chain operates at the community scale through corporate scriptural reception.
 
@@ -602,11 +702,15 @@ The same Word → Hearing → Faith chain operates at the community scale throug
 
 **P3/GII · V2.Exp9 — Community Amplification Law (B), Reasonably Inferred**
 
+*Attributes: Layer Substrate · Scale-range 3 – 120 · Operator P+S*
+
 Genuine spiritual community amplifies hearing, multiplies faith, and provides the correction mechanism that keeps individual discernment honest; a closed feedback loop amplifies error as readily as truth (Acts 13:2; 1 Cor. 14:29; Prov. 11:14; Prov. 27:17). The amplification operates through corporate worship, gathered prayer, and submitted-together-discernment; the operational counter to closed-loop drift is the three-condition test (submission to the written Word as external reference, openness to correction from outside the group, observable fruit in the natural).
 
 ***Mirror (statement form):*** *The idol-ward face is the closed-loop community — the community whose internal consensus operates as self-validation, with the feedback loop closed against external correction. The Adversary operates through this drift (2 Cor. 11:13–15), with tactics including flattery directed at insiders, contempt directed at outsiders, the slow elevation of a single voice above genuine testing, and the increasing internal certainty about ever-more-specific claims. Recovery requires the three-condition test the law's positive form names — submission to scripture, openness to outside correction, observable fruit in the natural.*
 
 **P3/GII · FL.XXXII (Foundational) — Communal Worship Heart-Alignment Law (B), Clearly Taught**
+
+*Attributes: Layer Operation · Scale-range 3 – city · Operator P*
 
 A gathered community's collective worship operates as the structural form of the corporate-heart's God-ward alignment; the corporate-heart oriented toward God enables the true worship of the gathered community, and the gathered community's worship aligns the corporate-heart toward God, with the two operations mutually constituting each other in the constitutive-bidirectional dynamic that parallels FL.III Heart-Throne's individual-scale operation at the community-scale corporate-heart. Five-or-more-biblical-author cross-Testament support: Psalmist across Psalter (Ps. 22:22–25; Ps. 100); Hebrews writer (Heb. 10:24–25; Heb. 12:22–24); Luke (Acts 2:46–47); John (Rev. 4–5); Paul across multiple letters (Rom. 15:5–6; Eph. 5:18–21; Col. 3:16; Phil. 2:1–11). Supplementary OT witness at 2 Chron. 5, 20, 30. Closes the P3/GII under-population — the cell previously held only V1.Exp1 Faith-Hearing Generation.
 
@@ -614,11 +718,15 @@ A gathered community's collective worship operates as the structural form of the
 
 **P3/GIII · V2.Exp8 — Container Law (Safe/Present/Clear/Intentional) (H), Reasonably Inferred**
 
+*Attributes: Layer Substrate · Scale-range 3 – 70 · Operator P*
+
 Operational features of containers that hold formation work safely and effectively.
 
 ***Mirror (orientation-neutral):*** *The Container Law is structural rather than orientation-shaped.*
 
 **P3/GIII · FL.XXIX (Foundational) — Corporate Emotional Integration Law (B), Clearly Taught**
+
+*Attributes: Layer Operation · Scale-range 3 – 120 · Operator P*
 
 When one member of the corporate body suffers, all suffer together; when one member is honored, all rejoice together; the integration operates through the gathered community's collective engagement with the member's experience as the community's own, and the operational output is the shared experience's holding in the corporate-soul as part of the community's accumulated corporate-soul substance. Five-or-more-biblical-author cross-Testament support: Paul at 1 Cor. 12:26 and Rom. 12:15; Luke at Acts 4:23–31; Chronicler at Neh. 8–9; Psalmist across the lament-and-praise corpus; Hebrews writer at Heb. 10:24–25; John supplementary at John 11:33–36. The broader OT structured mourning tradition and the NT corporate-celebration tradition establish operational scope. The constitutive-bidirectional Mirror form follows the 1 Cor. 12:26 articulation of both faces in a single statement. The corporate grief work / communal mourning case is the most canonically-developed sub-case of the law's operation (Gen. 50:1–14, 2 Sam. 1:11–12, Jer. 9:17–22, John 11:33–36, Acts 8:2) and is articulated within the chapter as the law's canonical operational form.
 
@@ -626,11 +734,15 @@ When one member of the corporate body suffers, all suffer together; when one mem
 
 **P3/GIII · FL.XXX (Foundational) — Communal Soul-Care for the Wounded Law (H), Clearly Taught**
 
+*Attributes: Layer Operation · Scale-range 3 – 70 · Operator P*
+
 The gathered community holds the integration that the soul-wounded member cannot accomplish herself, sustained over the duration the wounding requires until the member's own integrative capacity is restored; the corporate soul operates as the holding-substrate within which the wounded member's integration is held, with the structured forms of sustaining (active provision and silent presence in their appropriate mix) as the operational form of the holding. Four-or-more-biblical-author cross-Testament support: Paul at 2 Cor. 1:3–7 and Gal. 6:2; James at Jas. 5:13–16; Luke at Acts 9:9–25 and Acts 28; Mark at Mark 2:1–12 and the gospel cases of Jesus's reception of the wounded; Job writer at Job 2:11–13. Supplementary witnesses at the pastoral-epistles care-for-widows-and-orphans corpus (1 Tim. 5:3–16, Jas. 1:27). Operationally complementary to FL.XXIX and operationally distinct from FL.XXV Restoration-of-the-Erring Law at P3/GV.
 
 ***Mirror (statement form):*** *Idol-ward face is the abandonment of the wounded — community's failure to operate structured sustaining work, with wounded member left to attempt integration during the period when her own integrative capacity is structurally unavailable. Job 4–37's failure of Job's friends after the chapter 2 sustaining work is the canonical scriptural articulation. Recovery requires deliberate reinstitution of structured holding work with community's structural attention to wounded member's actual operational state.*
 
 **P3/GIV · FL.XXXI (Foundational) — Corporate Scriptural Reception Law (V), Clearly Taught**
+
+*Attributes: Layer Operation · Scale-range 3 – 120 · Operator P*
 
 A gathered community's collective reception of scriptural address — the gathered hearing, the corporate response, the collective integration that follows the gathered hearing — produces an operational reception of the text that solitary reading does not produce; the community-as-listener operates differently from the individual-as-listener, with the substance received expanding beyond what any individual member receives alone, and the corporate-mind's integration of the address operating as the community's unified cognitive-volitional structure for the subsequent operations the integrated substance shapes. Four-or-more-biblical-author cross-Testament support: Moses at Deut. 31:9–13; Chronicler at Neh. 8:1–12; Paul at 1 Tim. 4:13 and Col. 3:16; Luke at Acts 2:42 and broader Acts material; John at Rev. 1:3. Gospel supplementary at Luke 4:16–21 (Jesus's synagogue participation). Closes the P3/GIV under-population identified.
 
@@ -638,11 +750,15 @@ A gathered community's collective reception of scriptural address — the gather
 
 **P3/GIV · Confession-Clarity Law (B), Speculative ◆**
 
+*Attributes: deferred (Speculative ◆)*
+
 Community-scale articulation of confession's clarifying function. Held at Speculative tier pending further articulation.
 
 ***Mirror:*** *Same orientation-determined character as FL.II Confession-Restoration at the individual scale.*
 
 **P3/GV · FL.XVIII (Foundational) — Bitter-Root Community Law (H), Clearly Taught**
+
+*Attributes: Layer Operation · Scale-range 3 – 70 · Operator P*
 
 Unresolved offense between community members, held over time without the reconciliation work, calcifies into a community-defiling root with operational consequences for the gathered body's integrity (Heb. 12:14–15; Matt. 18:15–35). The Matt. 18:15–20 reconciliation pathway is the prescribed operational corrective.
 
@@ -650,11 +766,15 @@ Unresolved offense between community members, held over time without the reconci
 
 **P3/GV · FL.XXIV (Foundational) — Confession-in-Community Law (H), Clearly Taught**
 
+*Attributes: Layer Operation · Scale-range 3 – 12 · Operator P*
+
 The participant's secret sin, brokenness, or failure operates as compartmented interior load when held in concealment; the spoken confession in trusted community presence integrates the secret into the participant's external account through the witnessing party's reception. The mechanism's operational form is the presence-of-witnesses, with the witnessing party's continuing relational presence at the level of the truth received as the operational completion (Jas. 5:16; 1 John 1:9 in community context; Acts 19:18–19; Eph. 5:11–14).
 
 ***Mirror (statement form):*** *Idol-ward face is the concealment dynamic — the secret held over time operating as substitute interior architecture, with the concealment functioning as substitute integration. The operational signature of concealment is progressive interior compartmentation and accumulating relational distance from the community whose witness would integrate the secret.*
 
 **P3/GV · FL.XXV (Foundational) — Restoration-of-the-Erring Law (H), Clearly Taught**
+
+*Attributes: Layer Operation · Scale-range 3 – 120 · Operator P*
 
 The participant who has wandered from the truth or from the community is actively pursued by spiritually mature community members in a spirit of gentleness, with watchfulness on the pursuer's own susceptibility to temptation, and the pursuit (where received) restores the wanderer to communion (Gal. 6:1; Jas. 5:19–20; Matt. 18:12–14; Luke 15:1–7). The active pursuit is the prescribed operational form; the disposition (gentleness, joy-in-restoration) is constitutive of the mechanism's operation.
 
@@ -662,11 +782,15 @@ The participant who has wandered from the truth or from the community is activel
 
 **P3/GVI · V2.Exp10 — Skill Development (B), Reasonably Inferred** *(anomalous placement)*
 
+*Attributes: deferred (anomaly)*
+
 ⚠ Spans Individual and Community scales simultaneously; the cross-scale operation issue remains open for future structural work. The Skill Development Law's anomalous placement may point to a Scale Transfer Meta-Law the catalog has not yet articulated.
 
 ***Mirror (orientation-neutral):*** *The mechanism does not carry orientation.*
 
 **P3/GVI · FL.XXXIII (Foundational) — Community Polity Structure / Ecclesial Architecture Law (V; Band 3), Clearly Taught**
+
+*Attributes: Layer Substrate · Scale-range 3 – diaspora · Operator C+P*
 
 Some polity-structure — the leader-follower-and-peer arrangements, the offices and their qualifications, the decision-making patterns, the institutional-continuity arrangements that hold the community across time — operates as the architectural framework within which the gathered community's other operations are conducted; the framework is Christ-given (Eph. 4:11), operates for operational purpose (Eph. 4:12), and operates within eschatological horizon (Eph. 4:13). The specific polity-form (episcopal, presbyterian, congregational, charismatic-led, gathered-church, hybrid arrangements) is tradition-by-tradition theological work and not catalog-arbitrated articulation. Two-or-more-biblical-author cross-Testament support: Luke across Acts material; Paul across Pauline corpus; Hebrews writer; Peter; Mosaic and post-Mosaic supplementary. Band 3 articulation parallel to FL.XXIII Sabbath Rest Law's Band 3 admission structure.
 
@@ -676,11 +800,15 @@ Some polity-structure — the leader-follower-and-peer arrangements, the offices
 
 **P4/GI · FL.XIX (Foundational) — Spirit Anointing Transmission Law (V), Clearly Taught**
 
+*Attributes: Layer Operation · Scale-range 2 – 12 · Operator S+P*
+
 The Spirit's anointing operates as a transmissible reality across generations through deliberate impartation and proximity-based formation. Canonical instances: Elijah-Elisha (2 Kings 2); Paul-Timothy (2 Tim. 1:6); the apostolic-and-presbyteral laying-on-of-hands tradition (1 Tim. 4:14; 5:22).
 
 ***Mirror (statement form):*** *Idol-ward face is false-authority succession — the deliberate transmission of authority forms without the Spirit's anointing substance. 1 Tim. 4:1 and 2 Tim. 3:13 name the canonical NT articulation of false-anointing succession dynamics.*
 
 **P4/GII · FL.XVII (Foundational) — Substitution-Cascade Law (H), Clearly Taught (operational) / Reasonably Inferred (substrate)**
+
+*Attributes: Layer Operation · Scale-range 2 – generation · Operator P*
 
 The visible idolatry of one generation transmits to the next through the implicit-learning channel, with the substituted Object's enthronement reproducing across generations without deliberate teaching. Constitutive bidirectional pair with FL.XXI Household Formation Law at the same cell.
 
@@ -688,11 +816,15 @@ The visible idolatry of one generation transmits to the next through the implici
 
 **P4/GII · FL.XXI (Foundational) — Household Formation Law (V), Clearly Taught**
 
+*Attributes: Layer Operation · Scale-range 2 – 12 · Operator P*
+
 The God-ward direction of the generational-transmission dynamic operates by deliberate teaching and household formation, with the household's deliberate articulation of God's character, deeds, and address to the children as the operational form of the multigenerational transmission of God-ward orientation. The Shema's deliberate-teaching prescription (Deut. 6:4–9) and the Abrahamic commission's household-and-children-after-Him formulation (Gen. 18:19) name the canonical OT articulations.
 
 ***Mirror (constitutive bidirectional):*** *FL.XXI names the God-ward direction at the generational scale; FL.XVII Substitution-Cascade names the idol-ward direction. The two laws articulate the two faces of the generational transmission dynamic.*
 
 **P4/GII · Gratitude Amplifier (V), Speculative ◆**
+
+*Attributes: deferred (Speculative ◆)*
 
 A speculative entry articulating the amplification-by-gratitude dynamic at the generational scale.
 
@@ -700,11 +832,15 @@ A speculative entry articulating the amplification-by-gratitude dynamic at the g
 
 **P4/GIII · Generational Transmission (H), Speculative ◆**
 
+*Attributes: deferred (Speculative ◆)*
+
 A general-form articulation of the broader generational-transmission territory; held at Speculative tier pending further articulation that does not duplicate FL.XVII, FL.XXI, FL.XIX, FL.XXVI, FL.XXVII, FL.XXVIII.
 
 ***Mirror (orientation-neutral):*** *The transmission dynamic itself is structural rather than orientation-shaped; specific instances are orientation-determined per the law that articulates them.*
 
 **P4/GIV · FL.XXVI (Foundational) — Doctrinal Calcification Law (V), Clearly Taught**
+
+*Attributes: Layer Substrate · Scale-range 12 – generation · Operator P*
 
 Doctrinal traditions, when held without sustained engagement with their living scriptural and pastoral substance, calcify into form-without-power across generations — the structural form of the tradition persists while its operational substance attenuates, with the resulting form operating as substitute religious-identity that obscures the substance the tradition originally transmitted. Multi-author cross-Testament support: Jesus at Mark 7:1–13 (tradition of the elders); Paul at 2 Tim. 3:5 (form of godliness denying its power) and Col. 2:8 (philosophy and empty deceit according to human tradition); the broader prophetic indictment of formalized religion (Isa. 1:11–17; Amos 5:21–24); the Reformation's recovery of the calcified late-medieval substance through sola scriptura discipline.
 
@@ -712,11 +848,15 @@ Doctrinal traditions, when held without sustained engagement with their living s
 
 **P4/GV · FL.XXVII (Foundational) — Thick Practice Transmission Law (V), Clearly Taught**
 
+*Attributes: Layer Operation · Scale-range 3 – generation · Operator P*
+
 Embedded practices conducted in regular rhythm across generations — sabbath observance, passover and the seder, baptism and its rememberings, the eucharist and the Lord's table, sustained corporate prayer, sustained corporate Scripture reading, the catechetical cycles, the seasonal liturgical observances — operate as transmission vehicles for the substance of the faith that deliberate teaching alone cannot convey; the practices encode the substance in embodied form, the substance is received across generations through the participant's repeated participation in the practice's structural form across the formative years, and the practice's regular rhythm is constitutive of the mechanism. Five-or-more-biblical-author cross-Testament support: Moses across Deuteronomy and Exodus; the Joshua writer at Josh. 4; Paul across 1 Corinthians and 2 Timothy; Luke at Acts 2:42–47; the Psalmist at Ps. 78.
 
 ***Mirror (statement form):*** *The Thick Practice Transmission Law's idol-ward face is the form-without-power dynamic — the continued performance of the practice with the substance hollowed out. 2 Tim. 3:5 names the canonical scriptural articulation: "having the appearance of godliness, but denying its power. Avoid such people." The Pharisaic practice-forms in the Markan and Matthean controversies (Mark 7:1–13; Matt. 23:23) are the canonical NT cases. Recovery requires the recovery of the substance the practice encodes, with the practice's structural form held intact as the operational vehicle within which the substance is to be re-recovered.*
 
 **P4/GVI · FL.XXVIII (Foundational) — Generational Nested Structure Law (V), Clearly Taught**
+
+*Attributes: Layer Substrate · Scale-range 1 – eschatological · Operator P*
 
 The participant is formed within a nested architecture — the individual within the household, the household within the community, the community within the generation, the generation within the tradition, the tradition within the eschatological people of God — whose integrity is an operational condition for the transmission mechanisms the other Period 4 laws name; the nesting's intactness at each scale produces the architectural enabling-condition the mechanisms require, and compromised nesting at any scale propagates structural compromise across the scales the propagation reaches. Five-biblical-author cross-Testament support: Moses across Deuteronomy (Deut. 4:9–10; Deut. 6:1–9); the Psalmist across Ps. 78:5–8 and Ps. 145:4; Paul at Eph. 3:14–15; the Hebrews writer at Heb. 11–12; the Genesis writer at Gen. 18:19. The Petrine supplementary witness at Acts 2:39 establishes the New Covenant continuation of the nesting.
 
@@ -726,11 +866,15 @@ The participant is formed within a nested architecture — the individual within
 
 **P5/GI · FL.XLV (Foundational) — Voice-of-Christ-Reaches-into-Death Law (V), Clearly Taught (Band 1)**
 
+*Attributes: Layer Substrate · Scale-range 1 – eschatological · Operator C+T*
+
 Christ's voice — spoken in the Gospel narratives directly and operating through the gospel of His person and work in the post-Resurrection economy — penetrates the realm of operational death and produces life-from-death where the voice is heard, with the operation prefigured in the three Gospel resurrections (Jairus's daughter, the widow's son at Nain, Lazarus), continuing in the present economy through the gospel's awakening of the spiritually dead (the Ephesians-2 made-alive operation; the Romans-10 faith-from-hearing operation), and consummated at the parousia when the dead in Christ rise to meet Him at the cry of command and the trumpet of God. The mechanism operates across three operational forms of death: physical death; spiritual death; the bondage of perdition. Six-or-more-biblical-author cross-Testament support: the Synoptic writers (Mark, Matthew, Luke) and John at the three Gospel resurrection narratives; John at John 5:25–29 and John 11:25–26; Paul across Eph. 2:1–6, Col. 2:13, Rom. 6:4–5, 1 Thess. 4:16, 1 Cor. 15:51–52; the Hebrews writer at Heb. 4:12; Peter at 1 Pet. 3:18–20; Ezekiel at Ezek. 37:1–14 (OT prefiguration). Operator C+T — Christ-operated with the cosmic-completion at the consummation operating as the Triune-cosmic operation. Closes the P5/GI cell that was empty in the matured catalog after the Miracle Frame's relocation to P0/GI. Coexists with FL.XXXVI Eschatological Glory Law as the catalog's first P5 parent-pair (Spirit-dimension articulation + Heart-dimension articulation at the same cosmic-eschatological scale).
 
 ***Mirror (Christological-condition):*** *Like FL.XLI and FL.XLIV, the law's operator is Christ; the participant's role is reception. The non-reception failure mode is the refusal of the gospel's voice in the spiritually-dead present-economy operation. Multiple non-reception forms operate: the veil-over-the-heart form (2 Cor. 3:13–16); the rejection form (Matt. 10:32–33); the deferred-reception form (Acts 24:24–27 Felix-and-Drusilla pattern); the cultural-disenchantment form (the contemporary expression where the resurrection-claim is held intellectually but is not received operationally because the working-substrate-of-reality is the disenchanted-naturalistic frame). Recovery in the present economy operates through the gospel's continued proclamation; the eschatological consummation is held within FL.XXXVI Eschatological Glory Law operating at the Heart-dimension while the present law operates at the Spirit-dimension at the same cosmic-eschatological scale.*
 
 **P5/GII · FL.XXXVI (Foundational) — Eschatological Glory Law (V), Clearly Taught (Band 1)**
+
+*Attributes: Layer Substrate · Scale-range 1 – eschatological · Operator T+P*
 
 The eschatological completion — God's glory revealed at the consummation, the marriage supper of the Lamb, the new heavens and new earth, the people of God seeing Christ as He is — operates as the forward direction of pursuit toward which the heart of the people of God is drawn through the present life; the heart's sustained anticipation of the not-yet-completed glory produces operational consequences in the present life (sustained hope through trial; sacrificial choices in service of what is coming; purifying-of-self in anticipation of seeing Him as He is; orientation toward "things above" rather than "things on the earth"); absent eschatological orientation, the heart over-invests in what is passing away. Four-or-more-New-Testament-author scriptural support: Paul (Rom. 8:18–25; 2 Cor. 4:16–18, 5:1–10; Phil. 3:13–14, 3:20–21; Col. 3:1–4; 1 Thess. 4:13–18; 2 Tim. 4:7–8); the Hebrews writer (Heb. 11:13–16; 12:1–2; 13:14); John (1 John 3:2–3; Rev. 21–22, 22:17); Peter (1 Pet. 1:3–9, 1:13; 2 Pet. 3:11–13). Substantial Old Testament background in Isaiah (25:6–9; 65:17–25) and the Psalter (17:15; 73:24–26). The admission resolves the Vol 3 Glory Attractor forward-reference into pastorally-articulated Foundational form, completing the Vol 3 Forward-References Review and Resolution work.
 
@@ -738,11 +882,15 @@ The eschatological completion — God's glory revealed at the consummation, the 
 
 **P5/GIII · Suffering-as-Formation Loop (V), Reasonably Inferred** *(promoted from Speculative ◆)*
 
+*Attributes: Layer Substrate · Scale-range 1 – eschatological · Operator P*
+
 The cosmic-scale articulation of the same suffering-and-formation territory that FL.XXII Endurance-Hope Law names at the individual scale. The cosmic-scale extension is supported by inference from the Pauline cosmic-Christ material (Rom. 8:18–25; Col. 1:24; 2 Cor. 4:17), the Petrine cosmic-suffering material (1 Pet. 4:12–19; 1 Pet. 5:9–10), and the apocalyptic-imagination material (Rev. 21:4 with the eschatological closure-of-suffering). Parent-child relationship with FL.XXII at P1/GIII; see the Endurance-Hope and Suffering-as-Formation Parent-Child Relationship structural-observation sub-section.
 
 ***Mirror (constitutive bidirectional):*** *Same orientation-determined character as FL.XXII at the individual scale; the cosmic-scale articulation extends the constitutive-bidirectional structure to the cosmic-eschatological frame.*
 
 **P5/GIV · Attention Economy of the Soul (V), Speculative ◆**
+
+*Attributes: deferred (Speculative ◆)*
 
 The soul's movement toward its sustained object of attention; an attention-conformity periodicity articulation at the cosmic scale.
 
