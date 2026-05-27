@@ -2,7 +2,7 @@ name: Nightly mirror backup
 
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '30 4 * * *'
   workflow_dispatch:
 
 permissions:
