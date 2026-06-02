@@ -641,6 +641,10 @@ window.VOLUME_CHAPTERS = {
         "title": "B15 Pull-out Work"
       },
       {
+        "path": "docs/volume-5-references/interrogating-reality-naming-what-the-body-knows.md",
+        "title": "Interrogating Reality: Naming What the Body Already Knows"
+      },
+      {
         "path": "docs/volume-5-references/periodic-table-of-spiritual-laws-a-summing.md",
         "title": "The Periodic Table of Spiritual Laws — A Summing and Organizing Reference"
       },
@@ -2062,6 +2066,15 @@ window.PATH_TO_INFO = {
     "folder": "volume-5-references",
     "title": "B15 Pull-out Work",
     "prev": "docs/volume-5-references/b14-kinesthetic-metaphor.md",
+    "next": "docs/volume-5-references/interrogating-reality-naming-what-the-body-knows.md"
+  },
+  "docs/volume-5-references/interrogating-reality-naming-what-the-body-knows.md": {
+    "volume": 5,
+    "volumeName": "Volume 5: References",
+    "volumeFile": "Volume 5.html",
+    "folder": "volume-5-references",
+    "title": "Interrogating Reality: Naming What the Body Already Knows",
+    "prev": "docs/volume-5-references/b15-pull-out-work.md",
     "next": "docs/volume-5-references/periodic-table-of-spiritual-laws-a-summing.md"
   },
   "docs/volume-5-references/periodic-table-of-spiritual-laws-a-summing.md": {
@@ -2070,7 +2083,7 @@ window.PATH_TO_INFO = {
     "volumeFile": "Volume 5.html",
     "folder": "volume-5-references",
     "title": "The Periodic Table of Spiritual Laws — A Summing and Organizing Reference",
-    "prev": "docs/volume-5-references/b15-pull-out-work.md",
+    "prev": "docs/volume-5-references/interrogating-reality-naming-what-the-body-knows.md",
     "next": "docs/volume-5-references/corporate-person-structure-scriptural-definition.md"
   },
   "docs/volume-5-references/corporate-person-structure-scriptural-definition.md": {
