@@ -1,14 +1,16 @@
 ---
 title: "The Grammar of Creation: Did God Speak the Laws of Physics?"
-volume: 5
-source: "IJH_Vol5_v5_7_2_1.docx"
+volume: 3
+source: "IJH_Vol3_v5_7_2_1.docx"
 ---
 
 # The Grammar of Creation: Did God Speak the Laws of Physics?
 
-*A speculative framing essay — a meta-claim offered for the interest of it, not built upon.*
+*A front piece for Volume 3 — the warrant beneath the quantitative program. Speculative: offered for the interest of it, not built upon.*
 
-There is a notion I keep returning to, and I want to set it down plainly even though it sits at the far speculative edge of everything in this work. When Genesis says God *spoke* the world into being — "And God said, 'Let there be light,' and there was light" (Gen. 1:3) — what *language* was He speaking? My intuition is that the language was something like mathematics: that the utterance which brought light into being was, at its root, the same lawful order we much later wrote down as Maxwell's equations. Not that God recited algebra — but that what He said *was* the law light has obeyed ever since.
+Before this volume sets out to treat spiritual reality as something law-structured — to look for forces and distances and conservation laws, even equations — a fair question waits at the threshold: what gives us the right to expect lawful, describable order in spiritual things at all? This essay is my answer, and it sits at the far speculative edge of everything in this work.
+
+The answer begins with a notion I keep returning to. When Genesis says God *spoke* the world into being — "And God said, 'Let there be light,' and there was light" (Gen. 1:3) — what *language* was He speaking? My intuition is that the language was something like mathematics: that the utterance which brought light into being was, at its root, the same lawful order we much later wrote down as Maxwell's equations. Not that God recited algebra — but that what He said *was* the law light has obeyed ever since.
 
 I cannot prove this. But Scripture says more in this direction than I expected, and the idea, far from eccentric, sits in a long and serious conversation. Here is the ground, the mechanism as best I can state it, and — just as important — the places it has to be handled with care.
 
@@ -54,9 +56,9 @@ On that reading, "Let there be light" is the utterance, and Maxwell's equations 
 
 ## The Symmetry I Cannot Unsee
 
-Here the notion stops being a curiosity about physics and becomes part of *this* work. Everything in these volumes claims the *heart* is law-governed — real, discoverable cause-and-effect, as much as in the physical world. The [Opening Miracle Frame](../volume-1-laws-of-the-spirit/opening-miracle-frame.md) already argues the natural sits *inside* the spiritual; Volume 3 already dares to handle spiritual force in quantitative terms.
+Here the notion stops being a curiosity about physics and becomes part of *this* work. Everything in these volumes claims the *heart* is law-governed — real, discoverable cause-and-effect, as much as in the physical world. The [Opening Miracle Frame](../volume-1-laws-of-the-spirit/opening-miracle-frame.md) already argues the natural sits *inside* the spiritual; and this very volume is about to handle spiritual force in quantitative terms.
 
-If God spoke the physical laws that govern atoms, and also spoke the spiritual laws that govern hearts, then the catalog in these volumes and the equations in a physics textbook are *the same kind of thing* — two sets of standing words from one speaking God. Physical law is the grammar of matter; spiritual law is the grammar of the heart; both are intelligible for the same reason: a rational God said them, and they stood firm. The Foundational Laws of this work would then be not a metaphor borrowed from physics but a *sibling* of it — the other half of a single spoken order.
+If God spoke the physical laws that govern atoms, and also spoke the spiritual laws that govern hearts, then the catalog in these volumes and the equations in a physics textbook are *the same kind of thing* — two sets of standing words from one speaking God. Physical law is the grammar of matter; spiritual law is the grammar of the heart; both are intelligible for the same reason: a rational God said them, and they stood firm. The Foundational Laws of this work would then be not a metaphor borrowed from physics but a *sibling* of it — the other half of a single spoken order. Where each of those spiritual laws then sits within that order is the question this volume closes on — see [The Role Atlas](the-role-atlas-where-each-law-lives.md).
 
 ## Where The Idea Must Be Handled With Care
 
