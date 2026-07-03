@@ -11,8 +11,9 @@ Contents of Volume 1: Laws of the Spirit. Each entry below opens that section of
 
 - [What We Are Being Formed For: The Kingdom of God Now](what-we-are-being-formed-for-the.md) — What We Are Being Formed For: The Kingdom of God Now
 - [Taxonomy Key: How This Volume Classifies Its Explorations](taxonomy-key-how-this-volume-classifies-its.md) — Taxonomy Key: How This Volume Classifies Its Explorations
+- [The Properties of Spiritual Law as Used in This Work](properties-of-spiritual-law.md) — The Properties of Spiritual Law as Used in This Work
 - [Opening: The Miracle Frame](opening-miracle-frame.md) — Opening Exploration: The Miracle Frame — The Natural World as a Subset
-- [Foundational Laws: The Forty-Seven Laws of the Spirit](foundational-laws-thirty-eight-operational-laws-of-wide.md) — Foundational Laws: The Forty-Seven Laws of the Spirit
+- [Foundational Laws: The Forty-Eight Laws of the Spirit](foundational-laws-thirty-eight-operational-laws-of-wide.md) — Foundational Laws: The Forty-Eight Laws of the Spirit
 - [Foundational Law I: The Sowing-and-Reaping Law](foundational-law-i-the-sowing-and-reaping.md) — Foundational Law I: The Sowing-and-Reaping Law
 - [Foundational Law II: The Confession-Restoration Law](foundational-law-ii-the-confession-restoration-law.md) — Foundational Law II: The Confession-Restoration Law
 - [Foundational Law III: The Heart-Throne Law](foundational-law-iii-the-heart-throne-law.md) — Foundational Law III: The Heart-Throne Law
@@ -60,6 +61,8 @@ Contents of Volume 1: Laws of the Spirit. Each entry below opens that section of
 - [Foundational Law XLV: The Voice-of-Christ-Reaches-into-Death Law](foundational-law-xlv-the-voice-of-christ-reaches-into-death-law.md) — Foundational Law XLV: The Voice-of-Christ-Reaches-into-Death Law
 - [Foundational Law XLVI: The Communal Truth-Telling Law](foundational-law-xlvi-the-communal-truth-telling-law.md) — Foundational Law XLVI: The Communal Truth-Telling Law
 - [Foundational Law XLVII: The Word's-Efficacy Law](foundational-law-xlvii-the-words-efficacy-law.md) — Foundational Law XLVII: The Word's-Efficacy Law
+- [Foundational Law XLVIII: The Image-Bearing Law](foundational-law-xlviii-the-image-bearing-law.md) — Foundational Law XLVIII: The Image-Bearing Law
+- [The Image-Bearing Word: A Connective Essay](the-image-bearing-word.md) — The Image-Bearing Word — the Word-Stewardship cycle that gathers the speech laws
 - [1. How to Get Faith](exploration-01-how-to-get-faith.md) — First Exploration: How to Get Faith
 - [2. My Spirit, Heart, Soul, and Body](exploration-02-my-spirit-heart-soul-and.md) — Second Exploration: My Spirit, Heart, Soul, and Body
 - [Supplemental: The Three Desires](supplemental-three-desires.md) — Supplemental Exploration: The Three Desires — Design Specifications of the Human Heart

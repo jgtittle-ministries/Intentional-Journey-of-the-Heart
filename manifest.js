@@ -14,6 +14,10 @@ window.VOLUME_CHAPTERS = {
         "title": "If You Come Weary, Read This First"
       },
       {
+        "path": "docs/introduction/how-to-read-this-book-the-map.md",
+        "title": "How to Read This Book: The Country of the Heart"
+      },
+      {
         "path": "docs/introduction/founders-genesis-how-this-work-came-together.md",
         "title": "Founders’ Genesis: How This Work Came Together"
       },
@@ -74,7 +78,7 @@ window.VOLUME_CHAPTERS = {
       },
       {
         "path": "docs/volume-1-laws-of-the-spirit/foundational-laws-thirty-eight-operational-laws-of-wide.md",
-        "title": "Foundational Laws: The Forty-Seven Laws of the Spirit"
+        "title": "Foundational Laws: The Forty-Eight Laws of the Spirit"
       },
       {
         "path": "docs/volume-1-laws-of-the-spirit/supplemental-held-tensions-and-shadow-pairs.md",
@@ -267,6 +271,14 @@ window.VOLUME_CHAPTERS = {
       {
         "path": "docs/volume-1-laws-of-the-spirit/foundational-law-xlvii-the-words-efficacy-law.md",
         "title": "Foundational Law XLVII: The Word's-Efficacy Law"
+      },
+      {
+        "path": "docs/volume-1-laws-of-the-spirit/foundational-law-xlviii-the-image-bearing-law.md",
+        "title": "Foundational Law XLVIII: The Image-Bearing Law"
+      },
+      {
+        "path": "docs/volume-1-laws-of-the-spirit/the-image-bearing-word.md",
+        "title": "The Image-Bearing Word: A Connective Essay"
       },
       {
         "path": "docs/volume-1-laws-of-the-spirit/exploration-01-how-to-get-faith.md",
@@ -782,6 +794,15 @@ window.PATH_TO_INFO = {
     "folder": "introduction",
     "title": "If You Come Weary, Read This First",
     "prev": "docs/introduction/index.md",
+    "next": "docs/introduction/how-to-read-this-book-the-map.md"
+  },
+  "docs/introduction/how-to-read-this-book-the-map.md": {
+    "volume": 0,
+    "volumeName": "Introduction",
+    "volumeFile": "Introduction.html",
+    "folder": "introduction",
+    "title": "How to Read This Book: The Country of the Heart",
+    "prev": "docs/introduction/if-you-come-weary-read-this-first.md",
     "next": "docs/introduction/founders-genesis-how-this-work-came-together.md"
   },
   "docs/introduction/founders-genesis-how-this-work-came-together.md": {
@@ -790,7 +811,7 @@ window.PATH_TO_INFO = {
     "volumeFile": "Introduction.html",
     "folder": "introduction",
     "title": "Founders’ Genesis: How This Work Came Together",
-    "prev": "docs/introduction/if-you-come-weary-read-this-first.md",
+    "prev": "docs/introduction/how-to-read-this-book-the-map.md",
     "next": "docs/introduction/introduction-what-i-am-trying-to-do.md"
   },
   "docs/introduction/introduction-what-i-am-trying-to-do.md": {
@@ -906,7 +927,7 @@ window.PATH_TO_INFO = {
     "volumeName": "Volume 1: Laws of the Spirit",
     "volumeFile": "Volume 1.html",
     "folder": "volume-1-laws-of-the-spirit",
-    "title": "Foundational Laws: The Forty-Seven Laws of the Spirit",
+    "title": "Foundational Laws: The Forty-Eight Laws of the Spirit",
     "prev": "docs/volume-1-laws-of-the-spirit/opening-miracle-frame.md",
     "next": "docs/volume-1-laws-of-the-spirit/supplemental-held-tensions-and-shadow-pairs.md"
   },
@@ -1340,6 +1361,24 @@ window.PATH_TO_INFO = {
     "folder": "volume-1-laws-of-the-spirit",
     "title": "Foundational Law XLVII: The Word's-Efficacy Law",
     "prev": "docs/volume-1-laws-of-the-spirit/foundational-law-xlvi-the-communal-truth-telling-law.md",
+    "next": "docs/volume-1-laws-of-the-spirit/foundational-law-xlviii-the-image-bearing-law.md"
+  },
+  "docs/volume-1-laws-of-the-spirit/foundational-law-xlviii-the-image-bearing-law.md": {
+    "volume": 1,
+    "volumeName": "Volume 1: Laws of the Spirit",
+    "volumeFile": "Volume 1.html",
+    "folder": "volume-1-laws-of-the-spirit",
+    "title": "Foundational Law XLVIII: The Image-Bearing Law",
+    "prev": "docs/volume-1-laws-of-the-spirit/foundational-law-xlvii-the-words-efficacy-law.md",
+    "next": "docs/volume-1-laws-of-the-spirit/the-image-bearing-word.md"
+  },
+  "docs/volume-1-laws-of-the-spirit/the-image-bearing-word.md": {
+    "volume": 1,
+    "volumeName": "Volume 1: Laws of the Spirit",
+    "volumeFile": "Volume 1.html",
+    "folder": "volume-1-laws-of-the-spirit",
+    "title": "The Image-Bearing Word: A Connective Essay",
+    "prev": "docs/volume-1-laws-of-the-spirit/foundational-law-xlviii-the-image-bearing-law.md",
     "next": "docs/volume-1-laws-of-the-spirit/exploration-01-how-to-get-faith.md"
   },
   "docs/volume-1-laws-of-the-spirit/exploration-01-how-to-get-faith.md": {
@@ -1348,7 +1387,7 @@ window.PATH_TO_INFO = {
     "volumeFile": "Volume 1.html",
     "folder": "volume-1-laws-of-the-spirit",
     "title": "First Exploration: How to Get Faith",
-    "prev": "docs/volume-1-laws-of-the-spirit/foundational-law-xlvii-the-words-efficacy-law.md",
+    "prev": "docs/volume-1-laws-of-the-spirit/the-image-bearing-word.md",
     "next": "docs/volume-1-laws-of-the-spirit/exploration-02-my-spirit-heart-soul-and.md"
   },
   "docs/volume-1-laws-of-the-spirit/exploration-02-my-spirit-heart-soul-and.md": {
