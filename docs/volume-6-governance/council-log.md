@@ -5,7 +5,7 @@ volume: 6
 
 # Council Log
 
-*One entry per meeting, newest first: the date, who was present, what was told, what was asked and how it was answered, what was held, and any dissent by name. This is the public record that the light rule, [Governance for a Quiet Season](https://github.com/jgtittle-ministries/Intentional-Journey-of-the-Heart-dev/blob/9286a6e/_implementation-notes/council-meeting-2026-09-06/draft-governance-for-a-quiet-season.md), creates. Everything behind each entry is in the repositories, and each entry links to the documents exactly as the Council saw them, pinned to the commit of the day.*
+*One entry per meeting, newest first: the date, who was present, what was told, what was asked and how it was answered, what was held, and any dissent by name. This is the public record that the light rule, [Governance for a Quiet Season](governance-for-a-quiet-season.md), creates. Everything behind each entry is in the repositories, and each entry links to the documents exactly as the Council saw them, pinned to the commit of the day.*
 
 ---
 
@@ -24,7 +24,7 @@ volume: 6
 **Asked, and answered.**
 
 1. **The Meta-Law Layer** ([handout](https://github.com/jgtittle-ministries/Intentional-Journey-of-the-Heart-dev/blob/9286a6e/_implementation-notes/council-meeting-2026-09-06/ask-1-meta-law-layer-handout.md)), a retroactive ask: **approved.** Dave Smith asked whether one of the layer's dimensions should, in some sense, be level of complexity. Noted as a question to explore; no action taken.
-2. **The light rule, *Governance for a Quiet Season*** ([draft](https://github.com/jgtittle-ministries/Intentional-Journey-of-the-Heart-dev/blob/9286a6e/_implementation-notes/council-meeting-2026-09-06/draft-governance-for-a-quiet-season.md)): **approved and adopted.** This Log is its first act. Part 1 is held in reserve with its trigger.
+2. **The light rule, *Governance for a Quiet Season*** ([draft](https://github.com/jgtittle-ministries/Intentional-Journey-of-the-Heart-dev/blob/9286a6e/_implementation-notes/council-meeting-2026-09-06/draft-governance-for-a-quiet-season.md)): **approved and adopted.** This Log is its first act; the fuller governance model, Part 1, moves to the volume's reference section.
 3. **Two foundation inserts** ([draft](https://github.com/jgtittle-ministries/Intentional-Journey-of-the-Heart-dev/blob/9286a6e/_implementation-notes/council-meeting-2026-09-06/draft-foundations-inserts.md)): **held.**
 4. **The Succession Letter**: **approved and signed**, as above.
 5. **The hear-and-obey traceability study** ([study](https://github.com/jgtittle-ministries/Intentional-Journey-of-the-Heart-dev/blob/9286a6e/_implementation-notes/fl-traceability-to-hear-and-obey-2026-06-15.md), [grid](https://github.com/jgtittle-ministries/Intentional-Journey-of-the-Heart-dev/blob/9286a6e/_implementation-notes/traceability-grid.svg)), whether to promote it to the Research Register: **held.**
